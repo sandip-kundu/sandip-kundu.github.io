@@ -21,6 +21,22 @@ author_profile: true
 
 - Sudhakar Reddy and Sandip Kundu, **Fault Detection and Design for Testability of CMOS Logic Circuits**, Chapter in **Testing and Diagnosis of VLSI and ULSI** Edited by F. Lombardi and M. G. Sami(Eds), pp. 69-92, Kluwer Academic Publishers, Boston, MA, 1988
 
+### Patents
+
+-	Weight compression/decompression system (US Patent No. 7197721)
+-	Generalized fault model for defects and circuit marginalities (US Patent No. 7036063)
+-	Method and apparatus for modeling and circuits with asynchronous behavior (US Patent No. 6,973,422)
+-	Scan design for double-edge-triggered flip-flops (US Patent No. 6,938,225)
+-	Method and apparatus for power supply noise modeling and test pattern development  (US Patent No. 6,912,701)
+-	System for rearranging plurality of memory storage elements in a computer process to different configuration upon entry into a low power mode of operation  (US Patent No. 6,715,091)
+-	Constrained signature-based test  (US Patent No. 6,510,398)
+-	Technique for sorting high frequency integrated circuits  (US Patent No. 5,796,751)
+-	System and method for testing internal nodes of an integrated circuit at any predetermined machine cycle  (US Patent No. 5,793,777)
+-	CMOS transistor network to gate level model extractor for simulation, verification and test generation  (US Patent No. 5,629,858)
+-	Adjustable weighted random test pattern generator for logic circuits (US Patent No. 5,297,151)
+-	A DFT technique for avoiding contention/conflict in logic built-in self-test (US Patent No. 7,096,397)
+
+
 ### Journals
 
 - Leandro Santiago de Araùjo, Leticia Dias Verona, Fábio Medeiros Rangel, Fabricio Firmino de Faria, Daniel Sadoc Menasche, Wouter Caarls, Mauricio Breternitz, Sandip Kundu, Priscila Machado Vieira Lima, Felipe Maia Galvão França, **Memory Efficient Weightless Neural Network using Bloom Filter**, Neurocomputing, February 2020, 10.1016/j.neucom.2020.01.
