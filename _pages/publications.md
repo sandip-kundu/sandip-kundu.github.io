@@ -254,3 +254,156 @@ MPSoC based on task rescheduling**, ACM Trans. Des. Autom. Electron. Syst. 19, 2
 -	Vikram Suresh and Sandip Kundu, **On Analyzing and Mitigating SRAM BER due to Random Thermal Noise**, IEEE Computer Society Annual Symposium on VLSI, 2013
 
 -	Kunal Ganeshpure and Sandip Kundu, **On Run-time Task Graph Extraction in MPSoC**, IEEE Computer Society Annual Symposium on VLSI, 2013
+
+-	Sudarshan Srinivasan, Raghavan Kumar and Sandip Kundu, **Program Phase Duration Prediction and its Application to Fine-Grain Power Management**, IEEE Computer Society Annual Symposium on VLSI, 2013
+-	Sudarshan Srinivasan, Rance Rodrigues, Arunachalam Annamalai, Israel Koren and Sandip Kundu**, A study on Polymorphing Superscalar Processor Dynamically to Improve Power Efficiency**, IEEE Computer Society Annual Symposium on VLSI, 2013
+-	A. Annamalai, R. Kumar, A. Vijayakumar, S. Kundu, **A System-level Solution for Managing Spatial Temperature Gradients in Thinned 3D ICs**, International Symposium on Quality Electronic Design (ISQED) 2013
+-	Vinay C Patil, Sudarshan Srinivasan, Wayne P Burleson and Sandip Kundu, **Impact of Clock-Gating on Power Distribution Network using Wavelet Analysis**, VLSI Design Conference, Pune, India, 2013
+-	Rance Rodrigues, Arunachalam Annamalai, Israel Koren and Sandip Kundu, **Scalable Thread Scheduling in Asymmetric Multicores for Power Efficiency**,  24th International Symposium on Computer Architecture and High Performance Computing (SBACPAD), 2012
+-	Rance Rodrigues, Israel Koren and Sandip Kundu, **A Mechanism to Verify Cache Coherence Transactions in Multicore Systems**, International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems, 2012
+-	Kunal Ganeshpure and Sandip Kundu: Reducing Temperature Variation in 3D Integrated Circuits using Heat Pipes, ISVLSI 2012
+-	Kunal Ganeshpure and Sandip Kundu: A DFT Methodology for Repairing Embedded Memories of Large MPSoCs, ISVLSI 2012
+-	Arunkumar Vijayakumar, Raghavan Kumar and Sandip Kundu:  On Design of Low Cost Power Supply Noise Detection Sensor for Microprocessors, ISVLSI 2012
+-	Raghavan Kumar, Vinay C Patil and Sandip Kundu:  On Design of Temperature Invariant Physically Unclonable Functions based on Ring Oscillators, ISVLSI 2012
+-	Aida Todri, Sandip Kundu, Patrick Girard, Alberto Bosio, Luigi Dilillo, Arnaud Virazel, Electro-Thermal Analysis of 3D Power Delivery Networks**, Design Automation Conference, 2012
+-	Arunachalam Annamalai, Rance Rodrigues, Israel Koren and Sandip Kundu, **Dynamic Thread Scheduling in Asymmetric Multicores to Maximize Performance-per-Watt**, HPPAC 2012
+-	Sudarshan Srinivasan and Sandip Kundu, **Functional Test Pattern Generation for Maximizing Temperature in 3D IC Chip Stack**, ISQED, 2012
+-	Vikram Suresh, Priyamvada Vijayakumar,  Sandip Kundu, **On Lithography Aware Metal-Fill Insertion**, ISQED, 2012
+-	Nishant Dhumane and Sandip Kundu, **Critical Area Driven Dummy Fill Insertion to Improve Manufacturing Yield**, ISQED, 2012
+-	Rance Rodrigues, Arunachalam Annamalai, Israel Koren, Sandip Kundu and Omer Khan, **Performance Per Watt Benefits of Dynamic Core Morphing in Asymmetric Multicores**, Parallel Architectures and Compilation Techniques (PACT), 2011
+-	Rance Rodrigues and Sandip Kundu, **An Online Mechanism to Verify Datapath Execution using Existing Resources in Chip Multiprocessors**, Asian Test Symposium, 2011
+-	Michael Kochte, Sandip Kundu, Kohei Miyase, Xiaoqing Wen and H.-J. Wunderlich, **Efficient BDD-based Fault Simulation in Presence of Unknown Values**, Asian Test Symposium, 2011
+-	Vikram Suresh, Priyamvada Vijayakumar and Sandip Kundu, **Lithography Aware Critical Area Estimation and Yield Analysis**, International Test Conference, 2011
+-	Bharath Phanibhushana, Kunal Ganeshpure and Sandip Kundu, **Task Model for On-Chip Communication Infrastructure Design for Multicore Systems**, International Conference on Computer Design, 2011
+-	Rance Rodrigues, Sandip Kundu and Israel Koren, **An Architecture to enable Life Cycle Testing in CMPs**, IEEE International Symposium on Defect and Fault Tolerance in VLSI Systems, 2011
+-	Rance Rodrigues, Sandip Kundu, **On Graceful Degradation of Chip Multiprocessors in Presence of Faults via Flexible Pooling of Critical Execution Units**, Int. Online Test Symposium, 2011
+-	Rance Rodrigues, Sandip Kundu, **On Graceful Degradation of Chip Multiprocessors in Presence of Faults via Resource Banking**, Int. Online Test Symposium, 2011
+-	Nishant Dhumane, Sudheendra Srivathsa and Sandip Kundu, **Lithography Constrained Placement and Post-Placement Layout Optimization for Manufacturability**, IEEE International Symposium on VLSI, 2011
+-	Vikram Suresh, Priyamvada Vijayakumar and Sandip Kundu, **On Screening Reliability Using Lithographic Process Corner Information Gleaned from Tester Measurements**, IEEE International Symposium on VLSI, 2011
+-	Raghavan Kumar, Vinay C Patil and Sandip Kundu , **Design of Unique and Reliable Physically Unclonable Functions based on Current Starved Inverter Chain**, IEEE International Symposium on VLSI, 2011
+-	Michael Buttrick and Sandip Kundu, **Mitigating Partitioning, Routing, and Yield Concerns in 3D ICs by Multiplexing TSVs**, IEEE International Symposium on VLSI, 2011
+-	Raghavan Kumar, Harikrishnan Kumarapillai Chandrikakutty and Sandip Kundu, **On Improving Reliability of Delay Based Physically Unclonable Functions under Temperature Variations**, IEEE Int. Symposium on Hardware-Oriented Security and Trust, 2011
+-	Sudarshan Srinivasan, Arunkumar Vijayakumar, Bharath Phanibhushana, Sandip Kundu, **Stress Aware Switching Activity Driven Low Power Design of Critical Paths in Nanoscale CMOS Circuits**, 21st ACM GLSVLSI Conference, 2011
+-	Aswin Sreedhar and Sandip Kundu, **On Discovery of **Missing** Physical Design Rules via Diagnosis of Soft-faults**, ISQED, 2011
+-	Rance Rodrigues and Sandip Kundu, **Model Based Double Patterning Lithography (DPL) and Simulated Annealing (SA)**, ISQED, 2011
+-	Sudarshan Srinivasan,  Kunal P Ganeshpure,  Sandip Kundu, **Maximizing Hotspot Temperature: Wavelet based Modelling of Heating and Cooling Profile of Functional Workloads**, ISQED, 2011
+-	Michael Buttrick and Sandip Kundu, **On Testing Prebond Dies with Incomplete Clock Networks in 3D ICs Using DLLs**, Design Automation and Test in Europe, 2011
+-	Aswin Sreedhar and Sandip Kundu, **Physically Unclonable Functions for Embedded Security Using Lithographic Variation**, Design Automation and Test in Europe, 2011
+-	Aswin Sreedhar and Sandip Kundu, **Modeling Manufacturing Process Variation for Design and Test**, Design Automation and Test in Europe, 2011
+-	Aswin Sreedhar and Sandip Kundu, **On Design of Test Structures for Lithographic Process Corner Identification**, Design Automation and Test in Europe, 2011
+-	Michael Buttrick and Sandip Kundu, **Low-Power DLL-based On-Product Clock Generation for 3D Integrated Circuit Testing**, WRTLT, 2010
+-	Shruti Vyas, Aswin Sreedhar and Sandip Kundu, **DCT-based Scheme to Accelerate Multimedia Search in NAND Flash Memories**, International SoC Design Conference, pp. 67-70, Nov, 2010
+-	Bharath Phanibhushana, Priyamvada Vijayakumar, Prasad Shabadi, Gayatri Prabhu and Sandip Kundu, **Towards Efficient On-chip Sensor Interconnect Architecture for Multi-core Processors**, International SoC Design Conference, pp. 307-310, Nov, 2010 
+-	Sudheendra K. Srivathsa, Vikram B. Suresh, Pavan Panchapakeshan and Sandip Kundu, **Dynamic Thermal Management for System-on-Chip using Bus Arbitration**, International SoC Design Conference, pp. 372-375, Nov, 2010 
+-	Kunal Ganeshpure and Sandip Kundu, **On Run Time Task Graph Extraction of SoC**, International SoC Design Conference, pp. 380-383, Nov, 2010
+-	S. Khursheed, S. Zhong, B. Al-Hashimi, R. Aitken, and S. Kundu, **Modeling the Impact of Process Variation on Resistive Bridge Defects**, International Test Conference, 2010
+-	Anup Das, Rance Rodrigues, Israel Koren and Sandip Kundu, **A Study on Performance Benefits of Core Morphing in a Asymmetric Multicore Processor**, International Conference on Computer Design, 2010
+-	Rance Rodrigues, Sandip Kundu, ** Shadow Checker: A Low-Cost Hardware Scheme for Online Detection of Faults in Small Memory Structures of a Microprocessor **, International Test Conference, 2010
+-	Lokesh Subramany, Rance Rodrigues and Sandip Kundu, **Detecting Shorts And Open Faults In A Mask Using Lithography Simulation**, 19th NATW, Hopewell Junction, NY, 2010 
+-	Rance Rodrigues, Sandip Kundu, **A Mask Double Patterning Technique Using Litho Simulation By Wavelet Transform**, 20th ACM GLSVLSI Conference, pp. 103-106, Providence, 2010
+-	Omer Khan, Sandip Kundu, **A Model to Exploit Power-Performance Efficiency in Superscalar Processors Via Structure Resizing**, 20th ACM GLSVLSI Conference, pp. 215-220,  Providence, 2010
+-	Shruti Vyas, Aswin Sreedhar, Sandip Kundu, **TURBONFS: Turbo Nand Flash Search**, 20th ACM GLSVLSI Conference, pp. 251-256, Providence, 2010
+-	Omer Khan, Sandip Kundu, **A Self-Adaptive Scheduler for Asymmetric Multi-Cores**, 20th ACM GLSVLSI Conference, pp. 397-400, Providence, 2010
+-	Aswin Sreedhar and Sandip Kundu, **EM calibration based on post-OPC layout synthesis**, Design for Manufacturability through Design-Process Integration at SPIE Symposium on Advanced Lithography, February 2010, San Jose, CA
+-	Aswin Sreedhar and Sandip Kundu, **Stat-LRC: statistical rules check for variational lithography**, Design for Manufacturability through Design-Process Integration at SPIE Symposium on Advanced Lithography, February 2010, San Jose, CA 
+-	Rance Rodrigues, Aswin Sreedhar and Sandip Kundu, **Optical Lithography Simulation with Focus Variation using Wavelet Transform**, VLSI Conference 2010
+-	Hyunbean Yi, Kunal Ganeshpure, Shinjini Kundu, Sungju Park and Sandip Kundu, **A System Maintenance Architecture via Ethernet**, IEEE International Workshop on Reliability Aware System Design and Test, Bangalore 2010 
+-	Aswin Sreedhar and Sandip Kundu, **Statistical Timing Analysis based on simulation of Lithographic process**, ICCD 2009, October 2-4, Lake Tahoe CA
+-	Rance Rodrigues, Aswin Sreedhar and Sandip Kundu, **Optical Lithography Simulation using Wavelet Transform**, at ICCD 2009, October 2-4, Lake Tahoe CA
+-	Aarti Choudhary, Sandip Kundu, **A Process Variation Tolerant Self-Compensating Sense Amplifier Design**, IEEE Computer Society Annual Symposium on VLSI, Tampa, 2009
+-	Spandana Remarsu, Sandip Kundu, **On Process Variation Tolerant Low Cost Thermal Sensor Design in 32nm CMOS Technology**, 19th ACM GLSVLSI Conference, Boston, 2009
+-	Nagaraj Kelageri, Sandip Kundu, **Process Variation Mitigation via Post Silicon Clock Tuning**, 19th ACM GLSVLSI Conference, pp. 227-232, Boston, 2009
+-	Alodeep Sanyal, Abhisek Pan, Sandip Kundu, **A Study on Impact of Aggressor Derating in the Context of Multiple Crosstalk Effects in Integrated Circuits**, 19th ACM GLSVLSI Conference, pp. 529-534, Boston, 2009
+-	Kunal Ganeshpure, Ilia Polian, Bernd Becker, Sandip Kundu, **Reducing Temperature Variability by Routing Heat Pipes**, 19th ACM GLSVLSI Conference, pp. 63-68, Boston, 2009 
+-	Aarti Choudhary, Sandip Kundu**,A Process Variation Tolerant Self-Compensating FinFET based Sense Amplifier Design**, 19th ACM GLSVLSI Conference, Boston, 2009
+-	Omer Khan, Sandip Kundu, **A Self-Adaptive System Architecture to Address Transistor Aging**, pp. 81-86, DATE 2009
+-	Omer Khan, Sandip Kundu, **Hardware/Software Co-design Architecture for Thermal Management of Chip Multiprocessors**, pp. 952-957, DATE 2009
+-	Abhisek Pan, Omer Khan, Sandip Kundu, **Improving Yield and Reliability of Chip Multiprocessors**, pp. 490-495, DATE 2009
+-	Nagaraj Kelageri, Sandip Kundu, **A Study on Placement of Post Silicon Clock Tuning Buffers for Mitigating Impact of Process Variation**, pp. 292-295, DATE 2009
+-	Aswin Sreedhar, Sandip Kundu, **On Linewidth-based Yield Analysis for Nanometer Lithography**, pp. 381-386, DATE 2009 (Best Paper Award)
+-	Kunal Ganeshpure, Sandip Kundu, **An ILP Based ATPG Technique for Multiple Aggressor Crosstalk Faults Considering the Effects of Gate Delays**, VLSI 2009
+-	Omer Khan and Sandip Kundu. Run-Time Reconfiguration for Performance and Power Optimizations in Heterogeneous Chip Multiprocessors, 3rd HiPEAC Workshop on Reconfigurable Computing, January 2009
+-	Alodeep Sanyal, Abhisek Pan, Sandip Kundu, **A Study on Impact of Loading Effect on Capacitive Crosstalk Noise**, ISQED 2009
+-	Omer Khan and Sandip Kundu, **A Framework for Predictive Dynamic Temperature Management of Microprocessor Systems**, IEEE/ACM 2008 Int’l Conference on Computer Aided Design, 2008
+-	Omer Khan and Sandip Kundu, **Automatic Adjustment of System Performance to Mitigate Device Aging via a Co-designed Virtual Machine**, WDA-3 in conjunction with Micro-41, 2008 
+-	A. Pan, J. W. Tschanz, S. Kundu, **A Low Cost Scheme for Reducing Silent Data Corruption in Large Arithmetic Circuits**, Defect and Fault Tolerance in VLSI Systems, 2008
+-	Hyunbean Yi, Sungju Park, and Sandip Kundu, **Design-for-Debug (DfD) for NoC- based SoC Debugging via NoC**, IEEE Asia Test Symposium, Nov. 2008.
+-	Hyunbean Yi and Sandip Kundu, **Core Test Wrapper Design to Reduce Test Application Time for Modular SoC Testing**, IEEE International Symposium on Defect and Fault Tolerance in VLSI Systems, Oct. 2008.
+-	Hyunbean Yi and Sandip Kundu, **On Design of Hold Scan Cell for Hybrid Operation of a Circuit**, IEEE European Test Symposium, May 2008.
+-	Aswin Sreedhar and Sandip Kundu, **Timing Yield Modeling Based on Simulation of Lithography Process**, European Test Symposium, 2008
+-	Aswin Sreedhar and Sandip Kundu, **Statistical Yield Modeling for Subwavelength Lithography**, International Test Conference, 2008
+-	Kelageri Nagaraj, Sandip. Kundu, **An Automatic Post-Silicon Clock Tuning System for Improving Chip Performance Based on Tester Measurements**, International Test Conference, 2008
+-	Aswin Sreedhar and Sandip Kundu, **Modeling and Analysis of Non-Rectangular Transistors Caused by Lithographic Distortions**, Proceedings of ICCD 2008
+-	Aswin Sreedhar, Alodeep Sanyal, Sandip Kundu, **On Modeling and Testing of Lithography Related Open Faults in Nano-CMOS Circuits**, pp. 616-621, DATE 2008
+-	Sandip Kundu, **Guiding Light for Chip Testing**, DDECS 2008
+-	Alodeep Sanyal, Syed M. Alam, Sandip Kundu, **A Built-In Self-Test Scheme for Soft Error Rate Characterization**, IOLTS , pp. 65-70, 2008
+-	Alodeep Sanyal, Sandip Kundu, **A Built-In Test and Characterization Method for Circuit Marginality Related Failures**, ISQED, pp. 838-843, 2008
+-	Irith Pomeranz, Sudhakar M. Reddy, Sandip Kundu, **On Common-Mode Skewed-Load and Broadside Tests**, VLSI Design, pp. 151-156, 2008
+-	Kunal Ganeshpure, Sandip Kundu, On ATPG for Multiple Aggressor Crosstalk Faults in Presence of Gate Delays**, International Test Conference, 2007
+-	Aswin Sreedhar, Sandip Kundu, **On Modeling Impact of Sub-Wavelength Lithography on Transistors**, International Conference on Computer Design, 2007
+-	Alodeep Sanyal, Sandip Kundu, **On Derating Soft Error Probability Based on Strength Filtering**, International On-line Test Symposium, 2007, pp. 152-160
+-	Alodeep Sanyal, Kunal P. Ganeshpure, Sandip Kundu, **Accelerating Soft Error Rate Testing Through Pattern Selection**, International On-line Test Symposium, pp. 191-193, 2007
+-	Ashesh Rastogi, Wei Chen, Alodeep, Sandip Kundu, **On Estimating Impact of Loading Effect on Leakage Current in sub-65nm Scaled CMOS Circuits based on Newton-Raphson Method**, Design Automation Conference, pp. 712-715, 2007
+-	Ashesh Rastogi, Kunal Ganeshpure, Alodeep Sanyal, Sandip Kundu, **Pattern Generation for Composite Leakage Current Maximization, ** European Test Symposium,  2007
+-	Kunal Ganeshpure, Alodeep Sanyal, Sandip Kundu, **A Pattern Selection Approach for Accelerating Soft Error Rate Testing, ** European Test Symposium, 2007
+-	Ashesh Rastogi, Kunal Ganeshpure, Sandip Kundu, **A Study on Impact of Leakage Current on Dynamic Power**, ISCAS, pp. 1069-1072, 2007
+-	Kunal Ganeshpure, Alodeep Sanyal, Sandip Kundu, **On Accelerating Soft-Error Detection by Targeted Pattern Generation**, ISQED 2007, pp. 723-728
+-	Kunal Ganeshpure, Sandip Kundu, **Automatic Test Pattern Generation for Maximal Circuit Noise in Multiple Aggressor Cross-Talk Faults**, DATE, pp. 540-545, 2007
+-	Ashesh Rastogi, Wei Chen, Alodeep Sanyal, Sandip Kundu, **An Efficient Technique for Leakage Current Estimation in Sub 65nm Scaled CMOS Circuits Based on Loading Effect**, VLSI Design , pp. 583-588, 2007 
+-	Kunal Ganeshpure, Alodeep Sanyal and Sandip Kundu, **A Pattern Generation Technique for Maximizing Power Supply Currents**, Int. Conference on Computer Design, 2006
+-	I. Polian, A. Czutro, S. Kundu, and B. Becker, **Power droop testing**, Int. Conference on Computer Design, 2006 
+-	Sandip Kundu, Ilia Polian, **An Improved Technique for Reducing False Alarms Due to Soft Errors**, International On-line Test Symposium, 2006
+-	Sandip Kundu, **A design for failure analysis (DFFA) technique to ensure incorruptible signatures**, Design, Automation and Test in Europe Conference and Exhibition (DATE 06), Mar 06-10, 2006
+-	Debasis Mitra, Subhasis Bhattacharjee, Susmita Sur-Kolay, Bhargab B. Bhattacharya, Sujit T. Zachariah, Sandip Kundu, **Test Pattern Generation for Power Supply Droop Faults**, VLSI conference, India, 2006 
+-	Sandip Kundu, Pete Engelke, Ilia Polian, and Bernd Becker, **On detection of resistive bridging defects by low-temperature and low-voltage testing**, Asian Test Symposium 2005 
+-	Sandip Kundu, Matthew D. T. Lewis, Ilia Polian, Bernd Becker, **A soft-error emulation system for logic circuits**, 20th Conference on Design of Integrated Circuits and Systems, Lisbon, Portugal, 2005 
+-	Sandip Kundu, **Is the concern for soft-error overblown?**, International Test Conference, 2005 
+-	Ilia Polian, John P. Hayes, Sandip Kundu, Bernd Becker, **Transient Fault Characterization in Dynamic Noisy Environments**, International Test Conference, 2005 
+-	Ilia Polian, Sandip Kundu, Jean-Marc Galliere, Piet Engelke, Michel Renovell, Bernd Becker, **Resistive Bridge Fault Model Evolution From Conventional to Ultra Deep Submicron Technologies**, VLSI Test Symposium, 2005 
+-	Sandip Kundu, **Is divergence at fault site a necessary condition for fault detection**, European Test Symposium 2005 
+-	B. Seshadri, I. Pomeranz, S. M. Reddy, S.Kundu, **Path-Oriented Transition Fault Test Generation Considering Operating Conditions**, European Test Symposium 2005 
+-	Sandip Kundu, Matthew D. T. Lewis, Ilia Polian, Bernd Becker, **A soft-error emulation system for logic circuits**, Testmethoden und Zuverlässigkeit von Schaltungen und Systemen, Innsbruck, 2005 
+-	Mango C.-T Chao, Li-C. Wang, Kwang-Ting Cheng, Sandip Kundu: Static statistical timing analysis for latch-based pipeline designs. ICCAD 2004: 468-472
+-	Sandip Kundu, T. M. Mak, Rajesh Galivanche, **Trends in manufacturing test methods and their implications**, International Test Conference 2004 
+-	C. Tirumurti, S. Kundu, S. Sur-Kolay, **Analysis and Modeling of Power Supply Grid**, Design Automation and Test in Europe Conference, 2004 
+-	M. Naruse, I. Pomeranz, S. Reddy, S. Kundu, **On-Chip Compression of Output Responses with Unknown Values Using LFSR Reseeding**, International Test Conference 2003 
+-	S. Sur-Kolay, C. Tirumurti, S. Kundu, Y. Chang, S. Zachariah, **Analysis and Modeling of Power Supply Related Failures**, European Test Symposium, 2003 
+-	Bill Grundmann, Rajesh Galivanche, Sandip Kundu, **Circuit and Platform Design Challenges in Technologies beyond 90nm**, Design Automation and Test in Europe Conference, 2003 
+-	Irith Pomeranz, Sandip Kundu, Sudhakar M. Reddy, **On characterization of hard-to-detect bridging faults**, Design Automation and Test in Europe Conference, 2003 
+-	Sujit Zachariah, Yi-Shing Chang, Sandip Kundu, Chandra Tirumurti, **On modeling interconnect cross-talk faults**, Design Automation and Test in Europe Conference, 2003 
+-	Irith Pomeranz, Sandip Kundu, Sudhakar M. Reddy, **On Output Response Compression in the Presence of Unknown Output Values**, Design Automation Conference, 2002 
+-	Sandip Kundu, Chandra Tirumurti, Rathish Jayabharathi, Praveen Parvathala, **A Path Delay Fault Simulation System**, European Test Workshop, 2002 
+-	Sandip Kundu, Sanjay Sengupta, Dhiraj Goswami, Rajesh Galivanche, **Constrained Logic BIST for Microprocessors**,  Design Automation and Test in Europe Conference, 2002 
+-	Jing-Jia Liou, Kwang-Ting Cheng, Sandip Kundu, Angela Krstic, **Fast Statistical Timing Analysis by Probabilistic Event Propagation**, Design Automation Conference, 2001 
+-	Sitaram Yadavalli, Sandip Kundu, **On fault simulation through embedded memories in large industrial designs**, 14th International Conference on VLSI Design, pp. 117-121, 2001 
+-	Sandip Kundu, **Noise: whose problem is it anyway?**, International Test Conference, 2000 
+-	Sandip Kundu, Sanjay Sengupta, Rajesh Galivanche, **Test Challenges in Nano-meter technologies**, European Test Workshop, 2000 
+-	Jing-Jia Liou, Angela Krstic, Kwang-Ting Cheng, Deb Aditya Mukherjee, Sandip Kundu, **Performance Sensitivity Analysis Using Statistical Method and Its Applications to Delay Testing**, Asia-Pacific DAC, 2000 
+-	Sreejit Chakravarty, Sreenivas Mandava and Sandip Kundu, ** On Detecting Bridges Causing Timing Failures**, International Conference on Computer Design, Austin, Texas, 1999 
+-	Sandip Kundu, **IDDQ Defect Detection in Deep sub-micron CMOS ICs**, Asian Test Symposium, Singapore, 1998 
+-	Sandip Kundu, **GateMaker: A transistor to gate level extractor for simulation, automatic test pattern generation and verification**, International Test Conference, 1998 
+-	Sandip Kundu and Uttam Ghoshal, **Inductance Analysis of on-chip Interconnects**, European Design and Test Conference, Paris, March 1997 
+-	Daniel Brand, Anthony Drumm, Sandip Kundu and Prakash Narain, **Incremental Synthesis**, International Conference on Computer Aided Design, November 1994 
+-	Sandip Kundu, **Multifault Testable Circuits Based on Binary Parity Diagrams**, International Conference on Computer Design, October 1994 
+-	A. K. Pramanick and Sandip Kundu, **Design of scan-based path delay testable sequential circuits**, International Test Conference, October 1993 
+-	Sandip Kundu, **On Diagnosis of Faults in a Scan-Chain**, 11th IEEE VLSI Test Symposium, April 1993 
+-	Sandip Kundu and A. K. Pramanick, **Testability Preserving Boolean Transforms for Logic Synthesis**, 11th IEEE VLSI Test Symposium, April 1993 
+-	Sandip Kundu, Indira Nair, Leendert Huisman, Vijay Iyengar and L. N. Reddy, **A small test generator for large designs**, International Test Conference, pp. 30-40, September 1992 
+-	Sandip Kundu and Ankan Pramanick, **On testability preserving synthesis transforms**, 15th IEEE Workshop on Design for Testability, Vail, Colorado 1992 
+-	C. W. Starke, M. Gruetzner, T. W. Williams and S. Kundu, **How can biased random pattern test generation yield improved fault coverage for BIST**, 14th IEEE Workshop on Design for Testability, Vail, CO, 1991 
+-	Roy Thomas and Sandip Kundu, **Synthesis of fully testable sequential machines**, European Design Automation Conference, February 1991 
+-	Sandip Kundu, Indira Nair, Leendert Huisman and Vijay Iyengar, **Symbolic implication in test generation**, European Design Automation Conference, February 1991 
+-	Sandip Kundu, **Design of non-systematic 3-SyEC/AUED codes of asymptotically optimal order**, International Symposium on Information Theory, San Diego, January 14-19, 1990 
+-	Sandip Kundu, **A new class of error correcting codes**, International Symposium on Information Theory, San Diego, January 14-19, 1990 
+-	Sandip Kundu and Sudhakar M. Reddy, **Design of TSC checkers for implementation in CMOS technology**, Int. Conference on Computer Design, Boston, October 2-4, 1989 
+-	Sandip Kundu and Sudhakar M. Reddy, **On CMOS Totally-Self-Checking Checkers**, First European Workshop on Dependable Computing; Hardware and Software On-line Error Detection, Toulouse, France, March 1-3, 1989 
+-	Sandip Kundu, Sudhakar M. Reddy and Niraj Jha, **On The Design of Robust Multiple Fault Testable CMOS Combinational Logic Circuits** IEEE International Conference on Computer Aided Design, Santa Clara, November 1988 
+-	Sandip Kundu and Sudhakar M. Reddy, **Robust Tests for Parity Trees**, International Test Conference, Washington D.C., pp. 680-687, September 1988 
+-	Sandip Kundu and Sudhakar M. Reddy, **On the Design of Robust Testable CMOS Combinational Logic Circuits**, 18th International Symposium on Fault Tolerant Computing, Tokyo, Japan, pp. 220-225, June 1988 
+-	Sandip Kundu and Sudhakar M. Reddy, **On the Design t-SyEC/AUED Codes **, IEEE International Symposium on Information Theory, Kobe, Japan, June 19-24, 1988 
+-	Sandip Kundu and Sudhakar M. Reddy, **Design of Testable CMOS Circuits**, IEEE Design for Testability Workshop, Vail, Colorado, 1988 
+-	Sandip Kundu and Sudhakar M. Reddy, **On The Design of TSC LFSR Circuits**, International Test Conference BIST Workshop, South Carolina, March 11-13, 1987 
+-	Sandip Kundu and Sudhakar M. Reddy, **On The Design of Embedded TSC Checkers**, Proceedings of the 24th Annual Allerton Conference on Circuit and System Theory, October 1986. 
+-	Sandip Kundu and Sudhakar M. Reddy, **On The Design of TSC CMOS Combinational Logic Circuits**, Proceedings of the Int. Conf. on Computer Design, pp. 496-499, October 1986.
+
+
