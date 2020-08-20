@@ -7,27 +7,27 @@ author_profile: true
 
 
 
--	**Keynote Talk** at ISVLSI, *Can you trust your machine learning system?*, Miami, July 16, 2019 http://www.eng.ucy.ac.cy/theocharides/isvlsi19/keynotes.html
+-	**Keynote Talk** at ISVLSI, *Can you trust your machine learning system?*, Miami, July 16, 2019 [link](http://www.eng.ucy.ac.cy/theocharides/isvlsi19/keynotes.html)
 
--	**Keynote Talk** at MPP, *Can your Machine Learning System be Hacked?*, Rio de Janeiro, May 24, 2019 http://2019.mpp-conf.org/program.html
+-	**Keynote Talk** at MPP, *Can your Machine Learning System be Hacked?*, Rio de Janeiro, May 24, 2019 [link](http://2019.mpp-conf.org/program.html)
 
--	**Keynote Talk** at ISQED, *Adversarial attacks on Security and Privacy of Machine Learning Systems*, San Jose, March 6, 2019https://www.isqed.org
+-	**Keynote Talk** at ISQED, *Adversarial attacks on Security and Privacy of Machine Learning Systems*, San Jose, March 6, 2019 [link](https://www.isqed.org)
 
--	**Invited Visionary Talk** at Asian Hardware Oriented Security and Trust Symposium (AsianHOST), *Adversarial Attacks on Machine Learning Systems*, Hong Kong, December 17, 2018 http://asianhost.org/2018/program.htm
+-	**Invited Visionary Talk** at Asian Hardware Oriented Security and Trust Symposium (AsianHOST), *Adversarial Attacks on Machine Learning Systems*, Hong Kong, December 17, 2018 [link](http://asianhost.org/2018/program.htm)
 
--	**Invited Talk** at Leadership in Embedded Security Workshop sponsored by Computing Community Consortium, *Embedded Security*, Baltimore, August 13, 2018 https://cra.org/ccc/events/embedded-security-workshop/#speakers
+-	**Invited Talk** at Leadership in Embedded Security Workshop sponsored by Computing Community Consortium, *Embedded Security*, Baltimore, August 13, 2018  [link](https://cra.org/ccc/events/embedded-security-workshop/#speakers)
 
--	**Keynote Talk** at Women in Hardware and Systems Security (WISE) Workshop, May 3, 2018 http://www.hostsymposium.org/host2018/wise-workshop.php
+-	**Keynote Talk** at Women in Hardware and Systems Security (WISE) Workshop, May 3, 2018 [link](http://www.hostsymposium.org/host2018/wise-workshop.php)
 
--	**Invited Talk** at VLSI-DAT Special Session on Innovative Approaches on Hardware Security Enhancements, *On IC traceability via blockchain*, Hsinchu, Taiwan, 2018 http://expo.itri.org.tw/2018VLSIDAT/Program/SessionView/Invite
+-	**Invited Talk** at VLSI-DAT Special Session on Innovative Approaches on Hardware Security Enhancements, *On IC traceability via blockchain*, Hsinchu, Taiwan, 2018 [link](http://expo.itri.org.tw/2018VLSIDAT/Program/SessionView/Invite)
 
--	**Keynote Talk**, *Security and Privacy Challenges in Automobile Systems*, V-SEC 2017 in conjunction with IEEE 86thVehicular Technology Conference, Toronto, September 24, 2017
+-	**Keynote Talk**, *Security and Privacy Challenges in Automobile Systems*, V-SEC 2017 in conjunction with IEEE 86th Vehicular Technology Conference, Toronto, September 24, 2017
 
 -	**Keynote Talk**, *Securing Vehicle Passengers from Cyber Threats: Covert and Overt*, Internet of Things (IoT) and Automotive Security Workshop (IASW) held in conjunction with IEEE International Symposium on Hardware Oriented Security and Trust (HOST), McLean, VA, May 5, 2017
 
--	**Keynote Talk**, *Securing Physically Unclonable Functions*, 26thNorth Atlantic Test Workshop, Providence, RI, May 10, 2017
+-	**Keynote Talk**, *Securing Physically Unclonable Functions*, 26th North Atlantic Test Workshop, Providence, RI, May 10, 2017
 
--	****Keynote Talk**** *On Securing the Internet-of-Things:One PUF at a time*, 3rdBrazil Workshop on Microarchitectural Challenges: Performance, Energy Efficiency and Resilience, Rio de Janeiro, Brazil, http://wmc2017.ime.uerj.br/program.html, March 17, 2017
+-	**Keynote Talk** *On Securing the Internet-of-Things: One PUF at a time*, 3rd Brazil Workshop on Microarchitectural Challenges: Performance, Energy Efficiency and Resilience, Rio de Janeiro, Brazil, [link](http://wmc2017.ime.uerj.br/program.html), March 17, 2017
 
 -	**Graduate colloquium** *Exploring Heterogeneity within a Core for Improved Power Efficiency*, TU Dresden, Germany, December 22, 2016
 
