@@ -12,7 +12,7 @@ redirect_from:
 
 Sandip Kundu is a Professor of Electrical and Computer Engineering department at the *University of Massachusetts Amherst* (2005-date).  
 
-Prior to joining UMass, he worked at the *Intel Corporation* (1997-2005) and at the Research Division of *IBM Corporation* (1988-1997). He has also served as a program director at the *National Science Foundation* (2017-).
+Prior to joining UMass, he worked at the *Intel Corporation* (1997-2005) and at the Research Division of *IBM Corporation* (1988-1997). He is also a program director at the *National Science Foundation* (2017-).
 
 He obtained his Ph.D in Electrical & Computer Engineering from *University of Iowa* (1988) and B.Tech (Hons.) in Electronics & Electrical Communication Engineering from the *Indian Institute of Technology, Kharagpur* (1984).
 
