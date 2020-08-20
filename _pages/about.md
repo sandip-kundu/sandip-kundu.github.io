@@ -27,10 +27,10 @@ Prof. Kundu has held visiting professor positions at the University of Freiburg 
 
 ### Contact Information
 
-  Department of Electrical & Computer Engineering
-  309E Knowles Engineering Bldg
-  University of Massachusetts
-  151 Holdsworth Way
-  Amherst MA 01003-9284
-  Telephone: (413) 577-3309
+  Department of Electrical & Computer Engineering <br/>
+  309E Knowles Engineering Bldg <br/>
+  University of Massachusetts <br/>
+  151 Holdsworth Way <br/>
+  Amherst MA 01003-9284 <br/>
+  Telephone: (413) 577-3309 <br/>
   email: kundu@umass.edu
