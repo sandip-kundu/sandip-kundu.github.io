@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Recent Invited Talks"
+permalink: /talks/
+author_profile: true
+---
+
+
+
 -	**Keynote Talk** at ISVLSI, *Can you trust your machine learning system?*, Miami, July 16, 2019 http://www.eng.ucy.ac.cy/theocharides/isvlsi19/keynotes.html
 
 -	**Keynote Talk** at MPP, *Can your Machine Learning System be Hacked?*, Rio de Janeiro, May 24, 2019 http://2019.mpp-conf.org/program.html
