@@ -32,5 +32,5 @@ author_profile: true
 
 - ECE 659:	Advanced VLSI Design Project	
 
-ECE 697:	Design for Manufacturability and Reliability of VLSI Circuits
+- ECE 697:	Design for Manufacturability and Reliability of VLSI Circuits
 
