@@ -83,11 +83,11 @@ author:
   name             : "Sandip Kundu"
   avatar           : "profile.jpg"
   bio              : "I am a professor in the Department of Electrical and Computer Engineering at the University of Massachusetts Amherst."
-  location         : "UMass Amherst"
+  location         : "[UMass Amherst](https://www.umass.edu)"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=6yT3QWUAAAAJ&hl=en"
-  email            :
+  email            : "kundu@umass.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://ece.umass.edu/faculty/sandip-kundu"
   bitbucket        :
