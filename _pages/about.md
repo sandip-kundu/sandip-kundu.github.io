@@ -25,3 +25,13 @@ Professor Kundu has served as an Associate Editor of the IEEE Transactions on Pa
 Prof. Kundu has held visiting professor positions at the University of Freiburg in Germany, University of Montpellier in France, Kyushu Institute of Technology in Japan, Southampton University in UK, Chinese Academy of Sciences in Beijing, Tsinghua University in Beijing and the Federal University of Rio de Janeiro in Brazil.
 
 
+### Contact Information
+```
+Department of Electrical & Computer Engineering
+309E Knowles Engineering Bldg
+University of Massachusetts
+151 Holdsworth Way
+Amherst MA 01003-9284
+Telephone: (413) 577-3309
+email: kundu@umass.edu
+```
