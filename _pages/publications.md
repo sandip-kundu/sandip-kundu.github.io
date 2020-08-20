@@ -9,17 +9,17 @@ author_profile: true
 ### Books, Book Chapters
 
 
-1. Md. Nazmul Islam and Sandip Kundu, Chapter on “IoT Security, Privacy and Trust in Sharing Economy via Blockchain,” in “Blockchain Cyber security, Trust, and Privacy” Edited by Dr. Kim Kwang Raymond Choo, Dr. Ali Dehghantanha, and Dr. Reza M. Parizi, Springer Publications, In Press
+Md. Nazmul Islam and Sandip Kundu, Chapter on **IoT Security, Privacy and Trust in Sharing Economy via Blockchain**, in **Blockchain Cyber security, Trust, and Privacy** Edited by Dr. Kim Kwang Raymond Choo, Dr. Ali Dehghantanha, and Dr. Reza M. Parizi, Springer Publications, In Press
 
-2. Sandip Kundu and Aswin Sreedhar, “Nanoscale CMOS VLSI Circuits: Design for Manufacturability,” ISBN: 978-0071635196, McGraw-Hill Professional, 2010
+Sandip Kundu and Aswin Sreedhar, **Nanoscale CMOS VLSI Circuits: Design for Manufacturability**, ISBN: 978-0071635196, McGraw-Hill Professional, 2010
 
-3. Sandip Kundu and Alodeep Sanyal, Introduction Chapter in “Power-Aware Testing and Test Strategies for Low Power Devices,” Edited by Patrick Girard, Nicola Nicolici, Xiaoqing Wen, ISBN:978-1-4419-0927-5, Springer, 2009
+Sandip Kundu and Alodeep Sanyal, Introduction Chapter in **Power-Aware Testing and Test Strategies for Low Power Devices**, Edited by Patrick Girard, Nicola Nicolici, Xiaoqing Wen, ISBN:978-1-4419-0927-5, Springer, 2009
 
-4. Omer Khan, Sandip Kundu, “Predictive Thermal Management for Chip Multiprocessors Using Co-designed Virtual Machines,”, Book Series Lecture Notes in Computer Science, Springer, ISSN 0302-9743, ISBN 978-3-540-92989-5, 2009
+Omer Khan, Sandip Kundu, “Predictive Thermal Management for Chip Multiprocessors Using Co-designed Virtual Machines,”, Book Series Lecture Notes in Computer Science, Springer, ISSN 0302-9743, ISBN 978-3-540-92989-5, 2009
 
-5. Niraj Jha and Sandip Kundu, “Testing and Reliable Design of CMOS Circuits,” ISBN 0-7923-9056-3, TK7871.99.M44J49, Kluwer Academic Publishers, Boston, MA, 1990
+Niraj Jha and Sandip Kundu, “Testing and Reliable Design of CMOS Circuits,” ISBN 0-7923-9056-3, TK7871.99.M44J49, Kluwer Academic Publishers, Boston, MA, 1990
 
-6. Sudhakar Reddy and Sandip Kundu, “Fault Detection and Design for Testability of CMOS Logic Circuits,” Chapter in “Testing and Diagnosis of VLSI and ULSI” Edited by F. Lombardi and M. G. Sami(Eds), pp. 69-92, Kluwer Academic Publishers, Boston, MA, 1988
+Sudhakar Reddy and Sandip Kundu, “Fault Detection and Design for Testability of CMOS Logic Circuits,” Chapter in “Testing and Diagnosis of VLSI and ULSI” Edited by F. Lombardi and M. G. Sami(Eds), pp. 69-92, Kluwer Academic Publishers, Boston, MA, 1988
 
 ### Journals
 
@@ -78,8 +78,7 @@ on an MPSoC,” IET Circuits, Devices and Systems 7.5 (2013): 243-252.
 
 25. Kunal Ganeshpure, Alodeep Sanyal and Sandip Kundu, “A Pattern Generation Technique for Maximizing Switching Supply Currents Considering Gate Delays,” IEEE Transactions on Computers, vol. 61, no. 7, pp. 986-998, July 2012
 
-26.Michael Buttrick, Sandip Kundu, “On Testing Prebond Dies with Incomplete Clock Networks in a
-3D IC Using DLLs,” Journal of Electronic Testing, vol. 28, pp: 93-101, Feb 2012
+26. Michael Buttrick, Sandip Kundu, “On Testing Prebond Dies with Incomplete Clock Networks in a 3D IC Using DLLs,” Journal of Electronic Testing, vol. 28, pp: 93-101, Feb 2012
 
 27. Omer Khan and Sandip Kundu, “Hardware/Software Co-design Architecture for Online Testing in Chip Multiprocessors,” IEEE Transactions on Dependable and Secure Computing, pp. 714-727, September/October, 2011.
 
@@ -121,11 +120,11 @@ on an MPSoC,” IET Circuits, Devices and Systems 7.5 (2013): 243-252.
 
 46. Irith Pomeranz, Sandip Kundu, Sudhakar M. Reddy, “Masking of Unknown Output Values During Output Response Compression by Using Comparison Units,” IEEE Transactions on Computers, vol. 53, Jan. 2004, pp. 83 - 89
 
-47.Sandip Kundu, Sujit Zachariah, Sanjay Sengupta and Rajesh Galivanche, “Test Challenges in Nanometer Technologies,” Journal of Electronic Testing: Theory and Applications, pp. 209-218, 2001
+47. Sandip Kundu, Sujit Zachariah, Sanjay Sengupta and Rajesh Galivanche, “Test Challenges in Nanometer Technologies,” Journal of Electronic Testing: Theory and Applications, pp. 209-218, 2001
 
 48. Sanjay Sengupta, Sandip Kundu, Sreejit Chakravarty, Praveen Parvathala, Rajesh Galivanche, George Kosonocky, Mike Rodgers, and TM Mak, “Defect-Based Test: A Key Enabler for Successful Migration to Structural Test,” Intel Technical Journal, 1999 1st quarterly issue
 
-49.Sandip Kundu, E. S. Sogomonyan and M. Goessel, “Self-checking comparator with one periodic output,” IEEE Transactions on Computers, vol. 45, no. 3, March 1996
+49. Sandip Kundu, E. S. Sogomonyan and M. Goessel, “Self-checking comparator with one periodic output,” IEEE Transactions on Computers, vol. 45, no. 3, March 1996
 
 50. Sandip Kundu, “On construction of non-systematic t-symmetric error correcting/ all unidirectional error detecting codes,” IEICE Transactions on Inf. System, vol. E78-D, No. 5, May 1995
 
@@ -133,7 +132,7 @@ on an MPSoC,” IET Circuits, Devices and Systems 7.5 (2013): 243-252.
 
 52. Sandip Kundu, “An efficient technique for obtaining unate implementation of functions through input encoding,” Integration, pp. 265-270, vol. 17, 1994
 
-53.Leendert Huisman and Sandip Kundu, “Highly reliable symmetric networks “, IEEE Trans. on Parallel and Distributed Processing,” pp. 94-97, Jan 1994
+53. Leendert Huisman and Sandip Kundu, “Highly reliable symmetric networks “, IEEE Trans. on Parallel and Distributed Processing,” pp. 94-97, Jan 1994
 
 54. Sandip Kundu, “Diagnosing Scan Chain Faults,” IEEE Transactions on VLSI Systems, pp. 512-516, vol. 2, No. 4, December 1994
 
@@ -149,173 +148,118 @@ on an MPSoC,” IET Circuits, Devices and Systems 7.5 (2013): 243-252.
 
 ### Refereed Conferences and Workshops
 
-```
-1.Vinay Patil, Sandip Kundu, “On Leveraging Multi-threshold FinFETs for Design Obfuscation,”
-IEEE Computer Society Annual Symposium on VLSI, Limassol, Cyprus, July 6-8, 2020
-2.Irith Pomeranz, Sandip Kundu “Reduced Fault Coverage as a Target for Design Scaffolding
-Security,” 26thIEEE International Symposium on On-Line Testing and Robust System Design,
-Naples, Italy, July 13-15, 2020
-3.Leandro Santiago de Araùjo, Leandro Augusto Justen Marzulo, Tiago Assumpção de Oliveira
-Alves, Felipe Maia Galvãoo França, Israel Koren and Sandip Kundu, “Building a Portable Deeply-
-Nested Implicit Information Flow Tracking,” ACM International Conference on Computing Frontiers,
-Catania, Sicily, Italy, May 11 - May 13, 2020
-4.Tiago Alves, Sandip Kundu, “Towards Adversarial Attack Resistant Deep Neural Networks,”
-European Symposium on Artificial Neural Networks, Computational Intelligence and Machine
-Learning, Bruges, Belgium, October 2-4, 2020
-5.Brunno F Goldstein, Sudarshan Srinivasan, Dipankar Das, Kunal Banerjee, Leandro Santiago,
-Victor C. Ferreira, Alexandre S. Nery, Sandip Kundu and Felipe M. G. França, “Reliability Evalua-
-tion of Compressed Deep Learning Models ,” 11thIEEE Latin American Symposium on Circuits
-and Systems, San Josè, Costa Rica, February 25-28, 2020
-6.Leandro Santiago de Araùjo, Vinay C. Patil, Leandro Augusto Justen Marzulo, Felipe Maia Galvão
-França, Sandip Kundu, “Efficient Testing of Physically Unclonable Functions for Uniqueness,”
-IEEE 28thAsian Test Symposium (ATS), December 2019
-```
+1. Vinay Patil, Sandip Kundu, “On Leveraging Multi-threshold FinFETs for Design Obfuscation,” IEEE Computer Society Annual Symposium on VLSI, Limassol, Cyprus, July 6-8, 2020
 
-```
-7.Pascal Meinerzhagen, Sandip Kundu, Andres Malavasi, Trang Nguyen, Muhammad Khellah,
-James Tschanz and Vivek De, “Min-Delay Margin/Error Detection and Correction for Flip-Flops
-and Pulsed Latches in 10nm CMOS,” 45thEuropean Solid-State Circuits Conference, Krakow,
-Poland, September 23-26, 2019
-```
-8. Leandro Santiago de Araùjo, Victor Cruz Ferreira, Brunno Figueroa Goldstein, Alexandre Solon
-    Nery, Leandro Augusto Justen Marzulo, Sandip Kundu and Felipe M. G. França, “Hardware-
-    Accelerated Similarity Search with Multi-Index Hashing,” 17thIEEE International Conference on
-    Pervasive Intelligence and Computing (PICom 2019), August 5-8 2019, Fukuoka, Japan
-9.Md Nazmul Islam, Sandip Kundu, “Remote Configuration of Integrated Circuit Features and
-    Firmware Management via Smart Contract,” IEEE International Conference on Blockchain,
-    Atlanta, July 14 - July 17, 2019
-10.Tiago Alves, Felipe M.G. França and Sandip Kundu, “MLPrivacyGuard: Defeating Confidence
-Information based Model Inversion Attacks on Machine Learning Systems,” In Proceedings of the
-2019 on Great Lakes Symposium on VLSI, pp. 411-415. ACM, 2019
-11.Leandro Santiago de Araùjoet. al., “Memory Efficient Weightless Neural Network using Bloom
-Filter,"27thEuropean Symposium on Artificial Neural Networks, Computational Intelligence and
-Machine Learning, Bruges, Belgium, 24 - 26 April 2019
-12.França, Horácio L., Charles B. Prado, Vinay C. Patil, and Sandip Kundu, “Defeating Strong PUF
-Modeling Attack via Adverse Selection of Challenge-Response Pairs,” In 2018 Asian Hardware
-Oriented Security and Trust Symposium (AsianHOST), pp. 25-30, IEEE, 2018
-13.Anderson Luiz Sartor, Arthur F. Lorenzon, Sandip Kundu, Israel Koren and Antonio Carlos
-S. Beck, “Adaptive and Polymorphic VLIW Processor to Optimize Fault Tolerance, Energy
-Consumption, and Performance,” ACM International Conference on Computing Frontiers, 2018
-[http://www.computingfrontiers.org/2018/,](http://www.computingfrontiers.org/2018/,) **Best Paper Award**
-14.Md Nazmul Islam, Sandip Kundu, “On IC Traceability via Blockchain,” 23rdInternational Sympo-
-sium on VLSI Design, Automation and Test (VLSI-DAT), Hsinchu, April 16-19, 2018
-15.A. Pouraghily, M. Islam, S. Kundu, T. Wolf, “Privacy in Blockchain-Enabled IoT Devices,” ACM/IEEE
-International Conference on Internet of Things Design and Implementation (IoTDI), April 17-20,
-2018
-16.Md Nazmul Islam, Sandip Kundu, “Preserving IoT Privacy in Sharing Economy via Smart Contract,”
-ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI),
-April 17-20, 2018
-17.Md Nazmul Islam, Sandip Kundu, “PMU-Trojan: On Exploiting Power Management Side Channel
-for Information Leakage,” 23rdAsia and South Pacific Design Automation Conference, 2018
-18.Tiago Alves, Leandro A. J. Marzulo, Felipe M. G. França and Sandip Kundu, “A Resilient Scheduler
-for Dataflow Execution,” 2017 IEEE International Symposium on Defect and Fault Tolerance in
-VLSI and Nanotechnology Systems (DFT), 2017
-19.Leandro Santiago, Vinay C Patil, Sandip Kundu, Felipe M. G. Fraça, Charles B. Prado, Tiago A. O.
-Alves and Leandro A. J. Marzulo, “Realizing Strong PUF from Weak PUF via Neural Computing,”
-2017 IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology
-Systems (DFT), 2017
-20.Vinay C Patil, Arunkumar Vijayakumar and Sandip Kundu, “Manufacturer turned Attacker: Dan-
-gers of Stealthy Trojans via Threshold Voltage Manipulation,” 2017 IEEE 26thNorth Atlantic Test
-Workshop (NATW), Providence, RI, 2017
+2. Irith Pomeranz, Sandip Kundu “Reduced Fault Coverage as a Target for Design Scaffolding Security,” 26th IEEE International Symposium on On-Line Testing and Robust System Design, Naples, Italy, July 13-15, 2020
+
+3. Leandro Santiago de Araùjo, Leandro Augusto Justen Marzulo, Tiago Assumpção de Oliveira Alves, Felipe Maia Galvãoo França, Israel Koren and Sandip Kundu, “Building a Portable Deeply-Nested Implicit Information Flow Tracking,” ACM International Conference on Computing Frontiers, Catania, Sicily, Italy, May 11 - May 13, 2020
+
+4. Tiago Alves, Sandip Kundu, “Towards Adversarial Attack Resistant Deep Neural Networks,” European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, Bruges, Belgium, October 2-4, 2020
+
+5. Brunno F Goldstein, Sudarshan Srinivasan, Dipankar Das, Kunal Banerjee, Leandro Santiago, Victor C. Ferreira, Alexandre S. Nery, Sandip Kundu and Felipe M. G. França, “Reliability Evaluation of Compressed Deep Learning Models ,” 11thIEEE Latin American Symposium on Circuits and Systems, San Josè, Costa Rica, February 25-28, 2020
+
+6. Leandro Santiago de Araùjo, Vinay C. Patil, Leandro Augusto Justen Marzulo, Felipe Maia Galvão França, Sandip Kundu, “Efficient Testing of Physically Unclonable Functions for Uniqueness,” IEEE 28thAsian Test Symposium (ATS), December 2019
+
+7. Pascal Meinerzhagen, Sandip Kundu, Andres Malavasi, Trang Nguyen, Muhammad Khellah, James Tschanz and Vivek De, “Min-Delay Margin/Error Detection and Correction for Flip-Flops and Pulsed Latches in 10nm CMOS,” 45thEuropean Solid-State Circuits Conference, Krakow, Poland, September 23-26, 2019
+
+8. Leandro Santiago de Araùjo, Victor Cruz Ferreira, Brunno Figueroa Goldstein, Alexandre Solon Nery, Leandro Augusto Justen Marzulo, Sandip Kundu and Felipe M. G. França, “Hardware-Accelerated Similarity Search with Multi-Index Hashing,” 17thIEEE International Conference on Pervasive Intelligence and Computing (PICom 2019), August 5-8 2019, Fukuoka, Japan
+
+9. Md Nazmul Islam, Sandip Kundu, “Remote Configuration of Integrated Circuit Features and Firmware Management via Smart Contract,” IEEE International Conference on Blockchain, Atlanta, July 14 - July 17, 2019
+
+10. Tiago Alves, Felipe M.G. França and Sandip Kundu, “MLPrivacyGuard: Defeating Confidence Information based Model Inversion Attacks on Machine Learning Systems,” In Proceedings of the 2019 on Great Lakes Symposium on VLSI, pp. 411-415. ACM, 2019
+
+11. Leandro Santiago de Araùjoet. al., “Memory Efficient Weightless Neural Network using Bloom Filter,"27thEuropean Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, Bruges, Belgium, 24 - 26 April 2019
+
+12.  Horácio L.França, Charles B. Prado, Vinay C. Patil, and Sandip Kundu, “Defeating Strong PUF Modeling Attack via Adverse Selection of Challenge-Response Pairs,” In 2018 Asian Hardware Oriented Security and Trust Symposium (AsianHOST), pp. 25-30, IEEE, 2018
+
+13.Anderson Luiz Sartor, Arthur F. Lorenzon, Sandip Kundu, Israel Koren and Antonio Carlos S. Beck, “Adaptive and Polymorphic VLIW Processor to Optimize Fault Tolerance, Energy Consumption, and Performance,” ACM International Conference on Computing Frontiers, 2018 [http://www.computingfrontiers.org/2018/,](http://www.computingfrontiers.org/2018/,) **Best Paper Award**
+
+14. Md Nazmul Islam, Sandip Kundu, “On IC Traceability via Blockchain,” 23rd International Symposium on VLSI Design, Automation and Test (VLSI-DAT), Hsinchu, April 16-19, 2018
+
+15. A. Pouraghily, M. Islam, S. Kundu, T. Wolf, “Privacy in Blockchain-Enabled IoT Devices,” ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), April 17-20, 2018
+
+16. Md Nazmul Islam, Sandip Kundu, “Preserving IoT Privacy in Sharing Economy via Smart Contract,” ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI), April 17-20, 2018
+
+17. Md Nazmul Islam, Sandip Kundu, “PMU-Trojan: On Exploiting Power Management Side Channel for Information Leakage,” 23rdAsia and South Pacific Design Automation Conference, 2018
+
+18.Tiago Alves, Leandro A. J. Marzulo, Felipe M. G. França and Sandip Kundu, “A Resilient Scheduler for Dataflow Execution,” 2017 IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT), 2017
+
+19. Leandro Santiago, Vinay C Patil, Sandip Kundu, Felipe M. G. Fraça, Charles B. Prado, Tiago A. O. Alves and Leandro A. J. Marzulo, “Realizing Strong PUF from Weak PUF via Neural Computing,” 2017 IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT), 2017
+
+20. Vinay C Patil, Arunkumar Vijayakumar and Sandip Kundu, “Manufacturer turned Attacker: Dangers of Stealthy Trojans via Threshold Voltage Manipulation,” 2017 IEEE 26thNorth Atlantic Test Workshop (NATW), Providence, RI, 2017
 
 
-21.Pavithra Ramesh, Vinay C Patil and Sandip Kundu, “Peer Pressure on Identity: On Requirements
-for Disambiguating PUFs in Noisy Environment,” 2017 IEEE 26thNorth Atlantic Test Workshop
-(NATW), Providence, RI, 2017
-22.Vinay C Patil, Arunkumar Vijayakumar, Daniel E. Holcomb and Sandip Kundu, “Improving
-Reliability of Weak PUFs via Circuit Techniques to Enhance Mismatch,” IEEE International
-Symposium on Hardware Oriented Security and Trust (HOST), 2017
-23.Md. Nazmul Islam, Vinay C Patil, Sandip Kundu, “A Guide to Graceful Aging: How Not to
-Overindulge in Post-Silicon Burn-in for Enhancing Reliability of Weak PUF,” ISCAS, 2017
-24.Md. Nazmul Islam, Vinay C Patil, Sandip Kundu, “Determining Proximal Geolocation of IoT Edge
-Devices via Covert Channel,” ISQED, 2017
-25.Md. Nazmul Islam, Sandip Kundu,“An Analytical Model for Predicting the Residual Life of an IC
-and Design of Residual-Life Meter,” VLSI Test Symposium, 2017
-26.M. N. Islam and S. Kundu, “Modeling Residual Lifetime of an IC Considering Spatial and Inter-
-Temporal Temperature Variations,” 2016 IEEE 25th Asian Test Symposium (ATS), Hiroshima,
-Japan, 2016, pp. 240-245.
-27.S. Srinivasan, I. Koren and S. Kundu, “Improving performance per Watt of non-monotonic
-Multicore Processors via bottleneck-based online program phase classification,” 2016 IEEE 34th
-International Conference on Computer Design (ICCD), Scottsdale, AZ, 2016, pp. 528-535.
-28.V. C. Patil, A. Vijayakumar and S. Kundu, “On meta-obfuscation of physical layouts to conceal
-design characteristics,” 2016 IEEE International Symposium on Defect and Fault Tolerance in
-VLSI and Nanotechnology Systems (DFT), Storrs, CT, 2016, pp. 147-152.
-29.M. N. Islam and S. Kundu, “Modeling Residual Life of an IC Considering Multiple Aging Me-
-chanisms,” 2016 IEEE 25th North Atlantic Test Workshop (NATW), Providence, RI, 2016, pp.
-24-27.
-30.A. Vijayakumar, V. C. Patil, C. B. Prado and S. Kundu, “Machine learning resistant strong PUF:
-Possible or a pipe dream?,” IEEE International Symposium on Hardware Oriented Security and
-Trust (HOST), McLean, VA, 2016, pp. 19-
-31.Vinay Patil, Arunkumar Vijayakumar and Sandip Kundu, “Preventing Integrated Circuit Piracy
-via Custom Encoding of Hardware Instruction Set,” 17th International Symposium on Quality
-Electronic Design (ISQED), Santa Clara, CA, 2016, pp. 234-
-32.Arunkumar Vijayakumar, Vinay Patil and Sandip Kundu, “On Testing Physically Unclonable
-Functions for Uniqueness,” 17th International Symposium on Quality Electronic Design (ISQED),
-Santa Clara, CA, 2016, pp. 368-
-33.Arunkumar Vijayakumar, Vinay Patil and Sandip Kundu, “An Efficient Method for Clock Skew
-Scheduling to reduce Peak Current,” 29th International Conference on VLSI Design and 2016
-15th International Conference on Embedded Systems (VLSID), Kolkata, 2016, pp. 505-
-34.S. Srinivasan, N. Kurella, I. Koren and S. Kundu, “Dynamic Reconfiguration vs. DVFS: A
-Comparative Study on Power Efficiency of Processors,” 29th International Conference on VLSI
-Design and 2016 15th International Conference on Embedded Systems (VLSID), Kolkata, 2016,
-pp. 563-
-35.S. Kundu and O. Khan, “Efficient Error-Detection and Recovery Mechanisms for Reliability
-and Resiliency of Multicores,” 29th International Conference on VLSI Design and 2016 15th
-International Conference on Embedded Systems (VLSID), Kolkata, 2016, pp. 12-
+21. Pavithra Ramesh, Vinay C Patil and Sandip Kundu, “Peer Pressure on Identity: On Requirements for Disambiguating PUFs in Noisy Environment,” 2017 IEEE 26thNorth Atlantic Test Workshop (NATW), Providence, RI, 2017
 
+22. Vinay C Patil, Arunkumar Vijayakumar, Daniel E. Holcomb and Sandip Kundu, “Improving Reliability of Weak PUFs via Circuit Techniques to Enhance Mismatch,” IEEE International Symposium on Hardware Oriented Security and Trust (HOST), 2017
 
-36.M. N. Islam and S. Kundu, “Modeling Residual Life of an IC Considering Multiple Aging Mecha-
-nisms,” IEEE 25th North Atlantic Test Workshop (NATW), RI, USA, 2016, pp. 24-
-37.Sudarshan Srinivasan, Israel Koren and Sandip Kundu, “Online Mechanism for Reliability and
-Power-Efficiency Management of a Dynamically Reconfigurable Core,” 33rd IEEE International
-Conference on Computer Design (ICCD), 2015 , New York, NY, 2015, pp. 327-
-38.Arunkumar Vijayakumar, Sandip Kundu, “A novel modeling attack resistant PUF design based on
-non-linear voltage transfer characteristics,” DATE 2015, pp. 653-
-39.Tiago A. O. Alves, Leandro A. J. Marzulo, Sandip Kundu and Felipe M. G. França, “Domino Effect
-Protection on Dataflow Error Detection and Recovery,” DFTS 2014
-40.Sudarshan Srinivasan, Nithesh Kurella, Rance Rodrigues, Sandip Kundu and Israel Koren,
-“A Runtime Support Mechanism for Fast Mode Switching of a Self-Morphing Core for Power
-Efficiency,” PACT 2014
-41.Tiago Alves, Sandip Kundu, Leandro Marzulo, Felipe Franca, “Online Error Detection/Recovery
-for Dataflow Execution,” IOLTS 2014
-42.Arunachalam Annamalai, Rance Rodrigues, Israel Koren and Sandip Kundu, “Reducing Energy
-per Instruction via Dynamic Resource Allocation and Voltage and Frequency Adaptation in
-Asymmetric Multicores,” ISVLSI 2014
-43.Bharath Phanibhushana and Sandip Kundu, “Network-on-Chip Design for Heterogeneous Multi-
-processor System-on-Chip,” ISVLSI 2014
-44.Arunkumar Vijayakumar and Sandip Kundu, “Glitch Power Reduction via Clock Skew Scheduling,”
-ISVLSI 2014
-45.Arunkumar Vijayakumar, Vinay C Patil and Sandip Kundu, “On maximizing decoupling capacitance
-of clock-gated logic for robust power delivery,” ISVLSI 2014
-46.Siva Nishok Dhanuskodi, Arunkumar Vijayakumar and Sandip Kundu, “A Chaotic Ring Oscillator
-based Random Number Generator,” HOST 2014
-47.Arunkumar Vijayakumar, Vinay C Patil, Girish Paladugu, Sandip Kundu, “On Pattern Generation
-for Maximizing IR Drop,” ISQED 2014
-48.Rance Rodrigues, Israel Koren and Sandip Kundu, “Performance and Power Benefits of Sharing
-Execution Units between a High Performance Core and a Low Power Core,” 27th International
-Conference on VLSI Design, Mumbai, 2014
-49.Raghavan Kumar, Siva Nishok Dhanuskodi and Sandip Kundu, “On Manufacturing-Aware Phy-
-sical Design to Improve Uniqueness of Silicon-Based Physically Unclonable Functions,” 27th
-International Conference on VLSI Design, Mumbai, 2014
-50.Rance Rodrigues and Sandip Kundu, “A Low Power Architecture for Online Detection of Exe-
-cution Errors in SMT Processors,” 16th IEEE Symp. Defect and Fault Tolerance in VLSI and
-Nanotechnology Systems, 2013
-51.Vikram Suresh, Sandip Kundu, “Managing Test Coverage Uncertainty due to Thermal Noise in
-nano-CMOS: A Case Study on an SRAM Array,” In. Conf. on Computer Design, 2013
-52.Sudarshan Srinivasan, Rance Rodrigues, Arunachalam Annamalai, Israel Koren and Sandip
-Kundu, “On Dynamic Polymorphing of a Superscalar Core for Improving Energy Efficiency,” In.
-Conf. on Computer Design, 2013
+23. Md. Nazmul Islam, Vinay C Patil, Sandip Kundu, “A Guide to Graceful Aging: How Not to Overindulge in Post-Silicon Burn-in for Enhancing Reliability of Weak PUF,” ISCAS, 2017
 
+24. Md. Nazmul Islam, Vinay C Patil, Sandip Kundu, “Determining Proximal Geolocation of IoT Edge Devices via Covert Channel,” ISQED, 2017
 
-53.Annamalai, R. Rodrigues, I. Koren, and S. Kundu, “An Opportunistic Prediction-based Thread
-Scheduling to Maximize Throughput/Watt in AMPs.“ Submitted to International Conference on
-Parallel Architectures and Compilation Techniques (PACT), 2013.
-54.Vikram Suresh and Sandip Kundu, “On Analyzing and Mitigating SRAM BER due to Random
-Thermal Noise,” IEEE Computer Society Annual Symposium on VLSI, 2013
-55.Kunal Ganeshpure and Sandip Kundu, “On Run-time Task Graph Extraction in MPSoC,” IEEE
-Computer Society Annual Symposium on VLSI, 2013
-56.Sudarshan Srinivasan, Raghavan Kumar and Sandip Kundu, “Program Phase Duration Prediction
-and its Application to Fine-Grain Power Management,” IEEE Computer Society Annual Symposium
+25. Md. Nazmul Islam, Sandip Kundu,“An Analytical Model for Predicting the Residual Life of an IC and Design of Residual-Life Meter,” VLSI Test Symposium, 2017
+
+26. M. N. Islam and S. Kundu, “Modeling Residual Lifetime of an IC Considering Spatial and Inter-Temporal Temperature Variations,” 2016 IEEE 25th Asian Test Symposium (ATS), Hiroshima, Japan, 2016, pp. 240-245
+
+27. S. Srinivasan, I. Koren and S. Kundu, “Improving performance per Watt of non-monotonic Multicore Processors via bottleneck-based online program phase classification,” 2016 IEEE 34th International Conference on Computer Design (ICCD), Scottsdale, AZ, 2016, pp. 528-535
+
+28. V. C. Patil, A. Vijayakumar and S. Kundu, “On meta-obfuscation of physical layouts to conceal design characteristics,” 2016 IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT), Storrs, CT, 2016, pp. 147-152.
+
+29. M. N. Islam and S. Kundu, “Modeling Residual Life of an IC Considering Multiple Aging Mechanisms,” 2016 IEEE 25th North Atlantic Test Workshop (NATW), Providence, RI, 2016, pp. 24-27
+
+30 .A. Vijayakumar, V. C. Patil, C. B. Prado and S. Kundu, “Machine learning resistant strong PUF: Possible or a pipe dream?,” IEEE International Symposium on Hardware Oriented Security and Trust (HOST), McLean, VA, 2016, pp. 19-24
+
+31. Vinay Patil, Arunkumar Vijayakumar and Sandip Kundu, “Preventing Integrated Circuit Piracy via Custom Encoding of Hardware Instruction Set,” 17th International Symposium on Quality Electronic Design (ISQED), Santa Clara, CA, 2016, pp. 234-241
+
+32. Arunkumar Vijayakumar, Vinay Patil and Sandip Kundu, “On Testing Physically Unclonable Functions for Uniqueness,” 17th International Symposium on Quality Electronic Design (ISQED), Santa Clara, CA, 2016, pp. 368-373
+
+33. Arunkumar Vijayakumar, Vinay Patil and Sandip Kundu, “An Efficient Method for Clock Skew Scheduling to reduce Peak Current,” 29th International Conference on VLSI Design and 2016 15th International Conference on Embedded Systems (VLSID), Kolkata, 2016, pp. 505-510
+
+34. S. Srinivasan, N. Kurella, I. Koren and S. Kundu, “Dynamic Reconfiguration vs. DVFS: A Comparative Study on Power Efficiency of Processors,” 29th International Conference on VLSI Design and 2016 15th International Conference on Embedded Systems (VLSID), Kolkata, 2016, pp. 563-564
+
+35. S. Kundu and O. Khan, “Efficient Error-Detection and Recovery Mechanisms for Reliability and Resiliency of Multicores,” 29th International Conference on VLSI Design and 2016 15th International Conference on Embedded Systems (VLSID), Kolkata, 2016, pp. 12-13
+
+36. M. N. Islam and S. Kundu, “Modeling Residual Life of an IC Considering Multiple Aging Mechanisms,” IEEE 25th North Atlantic Test Workshop (NATW), RI, USA, 2016, pp. 24-
+37.Sudarshan Srinivasan, Israel Koren and Sandip Kundu, “Online Mechanism for Reliability and Power-Efficiency Management of a Dynamically Reconfigurable Core,” 33rd IEEE International Conference on Computer Design (ICCD), 2015 , New York, NY, 2015, pp. 327-334
+
+38. Arunkumar Vijayakumar, Sandip Kundu, “A novel modeling attack resistant PUF design based on non-linear voltage transfer characteristics,” DATE 2015, pp. 653-658
+
+39. Tiago A. O. Alves, Leandro A. J. Marzulo, Sandip Kundu and Felipe M. G. França, “Domino Effect Protection on Dataflow Error Detection and Recovery,” DFTS 2014
+
+40. Sudarshan Srinivasan, Nithesh Kurella, Rance Rodrigues, Sandip Kundu and Israel Koren, “A Runtime Support Mechanism for Fast Mode Switching of a Self-Morphing Core for Power Efficiency,” PACT 2014
+
+41. Tiago Alves, Sandip Kundu, Leandro Marzulo, Felipe Franca, “Online Error Detection/Recovery for Dataflow Execution,” IOLTS 2014
+
+42. Arunachalam Annamalai, Rance Rodrigues, Israel Koren and Sandip Kundu, “Reducing Energy per Instruction via Dynamic Resource Allocation and Voltage and Frequency Adaptation in Asymmetric Multicores,” ISVLSI 2014
+
+43. Bharath Phanibhushana and Sandip Kundu, “Network-on-Chip Design for Heterogeneous Multiprocessor System-on-Chip,” ISVLSI 2014
+
+44. Arunkumar Vijayakumar and Sandip Kundu, “Glitch Power Reduction via Clock Skew Scheduling,” ISVLSI 2014
+
+45. Arunkumar Vijayakumar, Vinay C Patil and Sandip Kundu, “On maximizing decoupling capacitance of clock-gated logic for robust power delivery,” ISVLSI 2014
+
+46. Siva Nishok Dhanuskodi, Arunkumar Vijayakumar and Sandip Kundu, “A Chaotic Ring Oscillator based Random Number Generator,” HOST 2014
+
+47. Arunkumar Vijayakumar, Vinay C Patil, Girish Paladugu, Sandip Kundu, “On Pattern Generation for Maximizing IR Drop,” ISQED 2014
+
+48. Rance Rodrigues, Israel Koren and Sandip Kundu, “Performance and Power Benefits of Sharing Execution Units between a High Performance Core and a Low Power Core,” 27th International Conference on VLSI Design, Mumbai, 2014
+
+49. Raghavan Kumar, Siva Nishok Dhanuskodi and Sandip Kundu, “On Manufacturing-Aware Physical Design to Improve Uniqueness of Silicon-Based Physically Unclonable Functions,” 27th International Conference on VLSI Design, Mumbai, 2014
+
+50. Rance Rodrigues and Sandip Kundu, “A Low Power Architecture for Online Detection of Execution Errors in SMT Processors,” 16th IEEE Symp. Defect and Fault Tolerance in VLSI and Nanotechnology Systems, 2013
+
+51. Vikram Suresh, Sandip Kundu, “Managing Test Coverage Uncertainty due to Thermal Noise in nano-CMOS: A Case Study on an SRAM Array,” In. Conf. on Computer Design, 2013
+
+52. Sudarshan Srinivasan, Rance Rodrigues, Arunachalam Annamalai, Israel Koren and Sandip Kundu, “On Dynamic Polymorphing of a Superscalar Core for Improving Energy Efficiency,” In. Conf. on Computer Design, 2013
+
+53. Annamalai, R. Rodrigues, I. Koren, and S. Kundu, “An Opportunistic Prediction-based Thread Scheduling to Maximize Throughput/Watt in AMPs.“ Submitted to International Conference on Parallel Architectures and Compilation Techniques (PACT), 2013. 
+
+54. Vikram Suresh and Sandip Kundu, “On Analyzing and Mitigating SRAM BER due to Random Thermal Noise,” IEEE Computer Society Annual Symposium on VLSI, 2013
+
+55. Kunal Ganeshpure and Sandip Kundu, “On Run-time Task Graph Extraction in MPSoC,” IEEE Computer Society Annual Symposium on VLSI, 2013
+
+56. Sudarshan Srinivasan, Raghavan Kumar and Sandip Kundu, “Program Phase Duration Prediction
+ and its Application to Fine-Grain Power Management,” IEEE Computer Society Annual Symposium
 on VLSI, 2013
 57.Sudarshan Srinivasan, Rance Rodrigues, Arunachalam Annamalai, Israel Koren and Sandip
 Kundu, “A study on Polymorphing Superscalar Processor Dynamically to Improve Power Effici-
