@@ -8,196 +8,144 @@ author_profile: true
 
 ### Books, Book Chapters
 
-```
+
 1. Md. Nazmul Islam and Sandip Kundu, Chapter on “IoT Security, Privacy and Trust in Sharing Economy via Blockchain,” in “Blockchain Cyber security, Trust, and Privacy” Edited by Dr. Kim Kwang Raymond Choo, Dr. Ali Dehghantanha, and Dr. Reza M. Parizi, Springer Publications, In Press
 
 2. Sandip Kundu and Aswin Sreedhar, “Nanoscale CMOS VLSI Circuits: Design for Manufacturability,” ISBN: 978-0071635196, McGraw-Hill Professional, 2010
 
 3. Sandip Kundu and Alodeep Sanyal, Introduction Chapter in “Power-Aware Testing and Test Strategies for Low Power Devices,” Edited by Patrick Girard, Nicola Nicolici, Xiaoqing Wen, ISBN:978-1-4419-0927-5, Springer, 2009
 
-4.Omer Khan, Sandip Kundu, “Predictive Thermal Management for Chip Multiprocessors Using Co-designed Virtual Machines,”, Book Series Lecture Notes in Computer Science, Springer, ISSN 0302-9743, ISBN 978-3-540-92989-5, 2009
+4. Omer Khan, Sandip Kundu, “Predictive Thermal Management for Chip Multiprocessors Using Co-designed Virtual Machines,”, Book Series Lecture Notes in Computer Science, Springer, ISSN 0302-9743, ISBN 978-3-540-92989-5, 2009
 
-5.Niraj Jha and Sandip Kundu, “Testing and Reliable Design of CMOS Circuits,” ISBN 0-7923-9056-3, TK7871.99.M44J49, Kluwer Academic Publishers, Boston, MA, 1990
+5. Niraj Jha and Sandip Kundu, “Testing and Reliable Design of CMOS Circuits,” ISBN 0-7923-9056-3, TK7871.99.M44J49, Kluwer Academic Publishers, Boston, MA, 1990
 
-6.Sudhakar Reddy and Sandip Kundu, “Fault Detection and Design for Testability of CMOS Logic Circuits,” Chapter in “Testing and Diagnosis of VLSI and ULSI” Edited by F. Lombardi and M. G. Sami(Eds), pp. 69-92, Kluwer Academic Publishers, Boston, MA, 1988
+6. Sudhakar Reddy and Sandip Kundu, “Fault Detection and Design for Testability of CMOS Logic Circuits,” Chapter in “Testing and Diagnosis of VLSI and ULSI” Edited by F. Lombardi and M. G. Sami(Eds), pp. 69-92, Kluwer Academic Publishers, Boston, MA, 1988
 
-```
 ### Journals
 
-```
-1.Leandro Santiago de Araùjo, Leticia Dias Verona, Fábio Medeiros Rangel, Fabricio Firmino
-de Faria, Daniel Sadoc Menasche, Wouter Caarls, Mauricio Breternitz, Sandip Kundu, Priscila
-Machado Vieira Lima, Felipe Maia Galvão França, “Memory Efficient Weightless Neural Network
-using Bloom Filter,” Neurocomputing, February 2020, 10.1016/j.neucom.2020.01.
-2.Pascal Meinerzhagen, Sandip Kundu, Andres Malavasi, Trang Nguyen, Muhammad Khellah,
-James Tschanz and Vivek De, “Min-Delay Margin/Error Detection and Correction for Flip-Flops
-and Pulsed Latches in 10nm CMOS,” IEEE Solid-State Circuits Letters, Volume: 2, Issue: 9, Sept.
-2019
-3.Md. Nazmul Islam, Sandip Kundu, “Enabling IC Traceability via Blockchain Pegged to Embedded
-PUF,” ACM Transactions on Design Automation of Electronic Systems (TODAES), ACM Transacti-
-ons on Design Automation of Electronic Systems, Vol 24, 3, Article 36 (April 2019), 23 pages.
-DOI: https://doi.org/10.1145/
-```
+1. Leandro Santiago de Araùjo, Leticia Dias Verona, Fábio Medeiros Rangel, Fabricio Firmino de Faria, Daniel Sadoc Menasche, Wouter Caarls, Mauricio Breternitz, Sandip Kundu, Priscila Machado Vieira Lima, Felipe Maia Galvão França, “Memory Efficient Weightless Neural Network using Bloom Filter,” Neurocomputing, February 2020, 10.1016/j.neucom.2020.01.
 
-4.Leandro Santiago, Vinay C. Patil, Charles B. Prado, Tiago A. O. Alves, Leandro A. J. Marzulo,
-Felipe M. G. França, Sandip Kundu, “Design of Robust, High Entropy Strong PUFs via Weightless
-Neural Network,” Journal of Hardware and Systems Security, September 2019, Volume 3, Issue
-3, pp 235-
-5.Tiago Alves, Leandro A. J. Marzulo, Felipe M. G. França and Sandip Kundu, “Concurrency
-Analysis in Dynamic Dataflow Graphs,” IEEE Transactions on Emerging Topics in Computing,
-(preprint: https://www.computer.org/csdl/journal/ec/5555/01/08269827/13rRUwjoNBc)
-6.Md. Nazmul Islam, Vinay C. Patil, Sandip Kundu, “On Enhancing Reliability of Weak PUFs via
-Intelligent Post-Silicon Accelerated Aging,” IEEE Trans. on Circuits and Systems 65-I (3): 960-
-(2017)
-7.Vijayakumar, Arunkumar, Vinay C. Patil, and Sandip Kundu. “On Improving Reliability of SRAM-
-Based Physically Unclonable Functions,” Journal of Low Power Electronics and Applications 7,
-(2017): 2.http://www.mdpi.com/2079-9268/7/1/2/htm
-8.Arunkumar Vijayakumar, Vinay C. Patil, Daniel E. Holcomb, Christof Paar, and Sandip Kundu,
-“Physical Design Obfuscation of Hardware: A Comprehensive Investigation of Device and Logic-
-Level Techniques,” IEEE Transactions on Information Forensics and Security, vol. 12, no. 1, pp.
-64-77, Jan. 2017.
-9.Jian Wang, Huawei Li, Tao Lv, Tiancheng Wang, Xiaowei Li and Sandip Kundu, “Abstraction-
-Guided Simulation Using Markov Analysis for Functional Verification,” IEEE Transactions on
-Computer-Aided Design of Integrated Circuits and Systems, vol. 35, no. 2, pp. 285-297, Feb.
-2016
-10.Sudarshan Srinivasan, Nithesh Kurella, Israel Koren, Sandip Kundu. “Exploring Heterogeneity
+2. Pascal Meinerzhagen, Sandip Kundu, Andres Malavasi, Trang Nguyen, Muhammad Khellah, James Tschanz and Vivek De, “Min-Delay Margin/Error Detection and Correction for Flip-Flops and Pulsed Latches in 10nm CMOS,” IEEE Solid-State Circuits Letters, Volume: 2, Issue: 9, Sept. 2019
+
+3. Md. Nazmul Islam, Sandip Kundu, “Enabling IC Traceability via Blockchain Pegged to Embedded PUF,” ACM Transactions on Design Automation of Electronic Systems (TODAES), ACM Transactions on Design Automation of Electronic Systems, Vol 24, 3, Article 36 (April 2019), 23 pages. DOI: https://doi.org/10.1145/
+
+4. Leandro Santiago, Vinay C. Patil, Charles B. Prado, Tiago A. O. Alves, Leandro A. J. Marzulo, Felipe M. G. França, Sandip Kundu, “Design of Robust, High Entropy Strong PUFs via Weightless Neural Network,” Journal of Hardware and Systems Security, September 2019, Volume 3, Issue 3
+
+5. Tiago Alves, Leandro A. J. Marzulo, Felipe M. G. França and Sandip Kundu, “Concurrency Analysis in Dynamic Dataflow Graphs,” IEEE Transactions on Emerging Topics in Computing, (preprint: https://www.computer.org/csdl/journal/ec/5555/01/08269827/13rRUwjoNBc)
+
+6. Md. Nazmul Islam, Vinay C. Patil, Sandip Kundu, “On Enhancing Reliability of Weak PUFs via Intelligent Post-Silicon Accelerated Aging,” IEEE Trans. on Circuits and Systems 65-I (3): 960- (2017)
+
+7. Vijayakumar, Arunkumar, Vinay C. Patil, and Sandip Kundu. “On Improving Reliability of SRAM-Based Physically Unclonable Functions,” Journal of Low Power Electronics and Applications 7, (2017): 2, http://www.mdpi.com/2079-9268/7/1/2/htm
+
+8. Arunkumar Vijayakumar, Vinay C. Patil, Daniel E. Holcomb, Christof Paar, and Sandip Kundu, “Physical Design Obfuscation of Hardware: A Comprehensive Investigation of Device and Logic-Level Techniques,” IEEE Transactions on Information Forensics and Security, vol. 12, no. 1, pp. 64-77, Jan. 2017.
+
+9. Jian Wang, Huawei Li, Tao Lv, Tiancheng Wang, Xiaowei Li and Sandip Kundu, “Abstraction-Guided Simulation Using Markov Analysis for Functional Verification,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 35, no. 2, pp. 285-297, Feb. 2016
+
+10. Sudarshan Srinivasan, Nithesh Kurella, Israel Koren, Sandip Kundu. “Exploring Heterogeneity
 within a Core for Improved Power Efficiency,” IEEE Transactions on Parallel and Distributed
 Systems, vol. 27, no. 4, pp. 1057-1069, April 1 2016
-11.Vikram B. Suresh, Sandip Kundu, “Managing Test Coverage Uncertainty due to Random Noise in
-nano-CMOS: A Case-Study on an SRAM Array,” IEEE Transactions on Computer-Aided Design
-of Integrated Circuits and Systems (TCAD), vol. 35, no.1, pp.155-165, Jan. 2016
-12.R.Rodrigues, I.Koren and S.Kundu, “Does the Sharing of Execution Units Improve Performance/
-Power of Multicores?,” ACM Transactions on Embedded Computing Systems (TECS), Volume 14,
-Issue 1, Article No. 17, January 2015
-13.Abhisek Pan, Rance Rodrigues and Sandip Kundu, “A Hardware Framework for Yield and
-Reliability Enhancement in Chip Multiprocessors,” ACM Transactions on Embedded Computing
-Systems (TECS), Volume 14, Issue 1, Article No. 12 , January 2015
-14.Kunal Ganeshpure and Sandip Kundu, “Performance-driven dynamic thermal management of
+
+11. Vikram B. Suresh, Sandip Kundu, “Managing Test Coverage Uncertainty due to Random Noise in nano-CMOS: A Case-Study on an SRAM Array,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), vol. 35, no.1, pp.155-165, Jan. 2016
+
+12. R.Rodrigues, I.Koren and S.Kundu, “Does the Sharing of Execution Units Improve Performance/Power of Multicores?,” ACM Transactions on Embedded Computing Systems (TECS), Volume 14, Issue 1, Article No. 17, January 2015
+
+13. Abhisek Pan, Rance Rodrigues and Sandip Kundu, “A Hardware Framework for Yield and Reliability Enhancement in Chip Multiprocessors,” ACM Transactions on Embedded Computing Systems (TECS), Volume 14, Issue 1, Article No. 12 , January 2015
+
+14. Kunal Ganeshpure and Sandip Kundu, “Performance-driven dynamic thermal management of
 MPSoC based on task rescheduling,” ACM Trans. Des. Autom. Electron. Syst. 19, 2, Article 11
 (March 2014), 33 pages.
-15.Aida Todri, Sandip Kundu, Patrick Girard, Alberto Bosio, Luigi Dilillo, Arnaud Virazel, “Globally
-Constrained Locally Optimized 3D Power Delivery Networks,” IEEE Transactions on VLSI Systems,
-vol.22, no.10, pp.2131-2144, Oct. 2014
-16.R. Rodrigues, A. Annamalai, and S. Kundu. “A Low Power Instruction Replay Mechanism for
-Design of Resilient Microprocessors“. ACM Transactions on Embedded Computing Systems
-(TECS) Article 85, 23 pages, March 2014
-17.R.Rodrigues, A.Annamalai, I.Koren and S.Kundu, “A Study on the use of Performance Counters
-to Estimate Power in Microprocessors,” IEEE Transactions on Circuit and Systems II: Express
-Briefs, vol.60, no.12, pp.882,886, Dec. 2013
 
+15. Aida Todri, Sandip Kundu, Patrick Girard, Alberto Bosio, Luigi Dilillo, Arnaud Virazel, “Globally Constrained Locally Optimized 3D Power Delivery Networks,” IEEE Transactions on VLSI Systems, vol.22, no.10, pp.2131-2144, Oct. 2014
 
-18.Kunal Ganeshpure and Sandip Kundu, “Game theoretic Approach for Run-time Task Scheduling
+16. R. Rodrigues, A. Annamalai, and S. Kundu. “A Low Power Instruction Replay Mechanism for Design of Resilient Microprocessors“. ACM Transactions on Embedded Computing Systems (TECS) Article 85, 23 pages, March 2014
+
+17. R.Rodrigues, A.Annamalai, I.Koren and S.Kundu, “A Study on the use of Performance Counters to Estimate Power in Microprocessors,” IEEE Transactions on Circuit and Systems II: Express Briefs, vol.60, no.12, pp.882,886, Dec. 2013
+
+18. Kunal Ganeshpure and Sandip Kundu, “Game theoretic Approach for Run-time Task Scheduling
 on an MPSoC,” IET Circuits, Devices and Systems 7.5 (2013): 243-252.
-19.A. Todri, S. Kundu, P. Girard, A. Bosio, L. Dilillo, A. Virazel, “A Study of Tapered 3D TSVs for
-Power and Thermal Integrity,” IEEE Transactions on VLSI, Feb. 2013, pp. 306-
-20.Rance Rodrigues, Arunachalam Annamalai, Israel Koren, and Sandip Kundu, “Improving perfor-
-mance per watt of asymmetric multi-core processors via online program phase classification and
-adaptive core morphing,” ACM Transactions on Design Automation of Electronic Systems, Vol.
-18, No. 1, pp. 5:1-5:23, January 2013
-21.Alodeep Sanyal, Kunal Ganeshpure, Sandip Kundu, “Test Pattern Generation for Multiple Ag-
-gressor Crosstalk Effects Considering Gate Leakage Loading from Fanout Nodes in Presence of
-Gate Delays,” IEEE Transactions on VLSI, vol. 20, number 3, 2012, pp. 424-436.
-22.Aswin Sreedhar, Sandip Kundu and Israel Koren, “On Reliability Trojan Injection and Detection,”
-Journal of Low Power Electronics, vol 8, number 5, 2012, pp. 674-
-23.Omer Khan and Sandip Kundu, “An Empirical Model for Cooperative Resizing of Processor
-Structures to Exploit Power-Performance Efficiency at Runtime,” Journal of IET Circuits, Devices
-and Systems, September 2012, pp. 355 - 365
-24.Sudarshan Srinivasan, Kunal P Ganeshpure, Sandip Kundu, “A Wavelet based Spatio-Temporal
-Heat Dissipation Model for Reordering of Program Phases to Produce Temperature Extremes in
-a Chip,” Vol. 31, No. 12, pp. 1867-1880, December 2012.
-25.Kunal Ganeshpure, Alodeep Sanyal and Sandip Kundu, “A Pattern Generation Technique for Ma-
-ximizing Switching Supply Currents Considering Gate Delays,” IEEE Transactions on Computers,
-vol. 61, no. 7, pp. 986-998, July 2012
+
+19. A. Todri, S. Kundu, P. Girard, A. Bosio, L. Dilillo, A. Virazel, “A Study of Tapered 3D TSVs for Power and Thermal Integrity,” IEEE Transactions on VLSI, Feb. 2013, pp. 306-
+
+20. Rance Rodrigues, Arunachalam Annamalai, Israel Koren, and Sandip Kundu, “Improving performance per watt of asymmetric multi-core processors via online program phase classification and adaptive core morphing,” ACM Transactions on Design Automation of Electronic Systems, Vol. 18, No. 1, pp. 5:1-5:23, January 2013
+
+21. Alodeep Sanyal, Kunal Ganeshpure, Sandip Kundu, “Test Pattern Generation for Multiple Aggressor Crosstalk Effects Considering Gate Leakage Loading from Fanout Nodes in Presence of Gate Delays,” IEEE Transactions on VLSI, vol. 20, number 3, 2012, pp. 424-436.
+
+22. Aswin Sreedhar, Sandip Kundu and Israel Koren, “On Reliability Trojan Injection and Detection,” Journal of Low Power Electronics, vol 8, number 5, 2012, pp. 674-
+
+23. Omer Khan and Sandip Kundu, “An Empirical Model for Cooperative Resizing of Processor Structures to Exploit Power-Performance Efficiency at Runtime,” Journal of IET Circuits, Devices and Systems, September 2012, pp. 355 - 365
+
+24. Sudarshan Srinivasan, Kunal P Ganeshpure, Sandip Kundu, “A Wavelet based Spatio-Temporal Heat Dissipation Model for Reordering of Program Phases to Produce Temperature Extremes in a Chip,” Vol. 31, No. 12, pp. 1867-1880, December 2012.
+
+25. Kunal Ganeshpure, Alodeep Sanyal and Sandip Kundu, “A Pattern Generation Technique for Maximizing Switching Supply Currents Considering Gate Delays,” IEEE Transactions on Computers, vol. 61, no. 7, pp. 986-998, July 2012
+
 26.Michael Buttrick, Sandip Kundu, “On Testing Prebond Dies with Incomplete Clock Networks in a
 3D IC Using DLLs,” Journal of Electronic Testing, vol. 28, pp: 93-101, Feb 2012
-27.Omer Khan and Sandip Kundu, “Hardware/Software Co-design Architecture for Online Testing in
-Chip Multiprocessors,” IEEE Transactions on Dependable and Secure Computing, pp. 714-727,
-September/October, 2011.
-28.Omer Khan and Sandip Kundu, “Microvisor: A Runtime Architecture for Thermal Management in
-Chip Multiprocessors,” Transactions on High-Performance Embedded Architectures and Compi-
-lers, Volume 4, LNCS 6760, pp. 84-110, 2011
-29.Alodeep Sanyal, Syed M. Alam and Sandip Kundu, “Built-In Self-Test for Detection and Charac-
-terization of Transient and Parametric Failures,” IEEE Design and Test, vol 27, number 5, 2010,
-Pages 50-
-30.Debasis Mitra, Susmita Sur-Kolay, Bhargab B. Bhattacharya, Sandip Kundu, Ashish Nigam,
-Sandeep K. Dey, “Test Pattern Generation for Droop Faults,” IET Comput. Digit. Tech, vol 4, 2010,
-Pages 274-
-31.Omer Khan, Sandip Kundu, “Thread Relocation: A Runtime Architecture for Tolerating Hard
-Errors in Chip Multiprocessors,” IEEE Transactions on Computers, pp. 651-665, May, 2010.
-32.Alodeep Sanyal, Ashesh Rastogi, Wei Chen, Sandip Kundu. “An Efficient Technique for Leakage
-Current Estimation in Nano-Scaled CMOS Circuits Incorporating Self-loading Effects,” IEEE
-Transactions on Computers, vol 59, number 7, 2010, Pages 922-
-33.Kunal P. Ganeshpure and Sandip Kundu, “On ATPG for Multiple Aggressor Crosstalk Faults,”,
-IEEE Transactions on CAD, vol. 29, pp. 774-787, May 2010
 
+27. Omer Khan and Sandip Kundu, “Hardware/Software Co-design Architecture for Online Testing in Chip Multiprocessors,” IEEE Transactions on Dependable and Secure Computing, pp. 714-727, September/October, 2011.
 
-34.Hyunbean Yi, Sungju Park, and Sandip Kundu, “On-Chip Support for NoC-based SoC Debugging,”
-IEEE Transactions on Circuits and Systems I, vol 57, number 7, 2010, Pages 1608-
-35.Hyunbean Yi, Sandip Kundu, S. Cho and S. Park, “A Scan Cell Design for Scan-based Debugging
-of an SoC with Multiple Clock Domains, IEEE Transactions on Circuits and Systems II, vol 57, No
-7, 2010, Pages 561-
+28. Omer Khan and Sandip Kundu, “Microvisor: A Runtime Architecture for Thermal Management in Chip Multiprocessors,” Transactions on High-Performance Embedded Architectures and Compilers, Volume 4, LNCS 6760, pp. 84-110, 2011
 
-36. R. A. Shafik, B. M. Al-Hashimi, S. Kundu, A. Ejlali, “Soft Error-Aware Voltage Scaling Technique
-    for Power Minimization in Application-Specific MPSoC,” Journal of Low Power Electronics, August
-    2009
-37.Alodeep Sanyal, Kunal Ganeshpure, Sandip Kundu, “ An Improved Soft Error Rate Measurement
-    Technique,” IEEE Trans. on CAD, pp. 596-600, April 2009
-38.Aswin Sreedhar, Sandip Kundu, “Lithography Simulation Basics and a Study on Impact of
-    Lithographic Process Window on Gate and Path Delays,” Journal of Low Power Electronics, 4,
-    392-401 (2008)
-39.Ashesh Rastogi, Kunal P. Ganeshpure, Alodeep Sanyal, Sandip Kundu, “On Composite Leakage
-    Current Maximization,”, Journal of Electronic Testing: Theory and Applications (JETTA), pp.
-    405-420, Volume 24, Number 4, August, 2008
-40.Piet Engelke, Ilia Polian. Michel Renovell, Sandip Kundu, Bernd Becker, Bharath Seshadri, and
-    Irith Pomeranz, “On Detection of Resistive Bridging Defects by Low-Temperature and Low-Voltage
-    Testing,” IEEE Trans. on CAD of Integrated Circuits and Systems 27(2): 327-338 (2008)
-41.Ilia Polian, Alejandro Czutro, Sandip Kundu, Bernd Becker, “Power Droop Testing,” IEEE Design
-    and Test of Computers, vol. 24, no. 3, pp. 276-284, May-June, 2007
-42.Sandip Kundu, Aswin Sreedhar, Alodeep Sanyal, “Forbidden pitches in Sub-Wavelength Litho-
-    graphy and their Implications on Design,” The Journal of Computer-Aided Materials Design, ISSN:
-    0928-1045, Vol. 14, No 1, 2007, pp. 79-
-43.Sandip Kundu, Sujit Zachariah, Yi-Shing Chang, Chandra Tirumurti, “On modeling interconnect
-    cross-talk faults,” IEEE Transactions on CAD, vol. 24 , no. 12, Dec. 2005, pp. 1909 - 1915
-44.Irith Pomeranz, Sudhakar M. Reddy and Sandip Kundu, “On the Characterization and Efficient
-    Computation of Hard-to-Detect Bridging Faults,” IEEE Transactions on CAD, vol. 23, no. 12,
-    December 2004
-45.Sandip Kundu, “Pitfalls of Hierarchical Fault Simulation,” IEEE Transactions on CAD, February
-    2004, pp. 312- 314
-46.Irith Pomeranz, Sandip Kundu, Sudhakar M. Reddy, “Masking of Unknown Output Values During
-    Output Response Compression by Using Comparison Units,” IEEE Transactions on Computers,
-    vol. 53, Jan. 2004, pp. 83 - 89
-47.Sandip Kundu, Sujit Zachariah, Sanjay Sengupta and Rajesh Galivanche, “Test Challenges in
-    Nanometer Technologies,” Journal of Electronic Testing: Theory and Applications, pp. 209-218,
-    2001
-48.Sanjay Sengupta, Sandip Kundu, Sreejit Chakravarty, Praveen Parvathala, Rajesh Galivan-
-    che, George Kosonocky, Mike Rodgers, and TM Mak, “Defect-Based Test: A Key Enabler for
-    Successful Migration to Structural Test,” Intel Technical Journal, 1999 1st quarterly issue
-49.Sandip Kundu, E. S. Sogomonyan and M. Goessel, “Self-checking comparator with one periodic
-    output,” IEEE Transactions on Computers, vol. 45, no. 3, March 1996
+29. Alodeep Sanyal, Syed M. Alam and Sandip Kundu, “Built-In Self-Test for Detection and Characterization of Transient and Parametric Failures,” IEEE Design and Test, vol 27, number 5, 2010, Pages 50-
 
+30. Debasis Mitra, Susmita Sur-Kolay, Bhargab B. Bhattacharya, Sandip Kundu, Ashish Nigam, Sandeep K. Dey, “Test Pattern Generation for Droop Faults,” IET Comput. Digit. Tech, vol 4, 2010, Pages 274-
 
-50.Sandip Kundu, “On construction of non-systematic t-symmetric error correcting/ all unidirectional
-error detecting codes,” IEICE Transactions on Inf. System, vol. E78-D, No. 5, May 1995
-51.Sandip Kundu, “An incremental algorithm for identification of longest (shortest) paths,” Integration,
-pp. 25-31, vol. 17, 1994
-52.Sandip Kundu, “An efficient technique for obtaining unate implementation of functions through
-input encoding,” Integration, pp. 265-270, vol. 17, 1994
-53.Leendert Huisman and Sandip Kundu, “Highly reliable symmetric networks “, IEEE Trans. on
-Parallel and Distributed Processing,” pp. 94-97, Jan 1994
-54.Sandip Kundu, “Diagnosing Scan Chain Faults,” IEEE Transactions on VLSI Systems, pp. 512-516,
-vol. 2, No. 4, December 1994
-55.Sandip Kundu, Sudhakar M. Reddy and Niraj Jha, “On The Design of Robustly Testable CMOS
-Combinational Logic Circuits” IEEE Transactions on Computer Aided Design of Integrated Circuits
-and Systems, pp. 1036-1048, August 1991
-56.Sandip Kundu and Sudhakar M. Reddy, “A practical design of embedded TSC checkers,” IEEE
-Design and Test, pp. 5-12, August 1990
-57.Sandip Kundu and Sudhakar M. Reddy, “Robust Tests for Parity Trees,” Journal of Electronic
-Testing: Theory and applications, pp. 191-200, August 1990
-58.Sandip Kundu and Sudhakar M. Reddy, “On symmetric error correcting and all unidirectional
-error detecting codes,” IEEE Trans. on Computers, Vol C-39, pp. 752 - 761, June 1990
-59.Sandip Kundu, “Design of Multi-output CMOS Combinational Logic Circuits for Robust Testability,”
-IEEE Transactions on Computer Aided Design of Integrated Circuits and Systems, pp. 1222-1226,
-November 1989
+31. Omer Khan, Sandip Kundu, “Thread Relocation: A Runtime Architecture for Tolerating Hard Errors in Chip Multiprocessors,” IEEE Transactions on Computers, pp. 651-665, May, 2010.
+
+32. Alodeep Sanyal, Ashesh Rastogi, Wei Chen, Sandip Kundu. “An Efficient Technique for Leakage Current Estimation in Nano-Scaled CMOS Circuits Incorporating Self-loading Effects,” IEEE Transactions on Computers, vol 59, number 7, 2010, Pages 922-
+
+33. Kunal P. Ganeshpure and Sandip Kundu, “On ATPG for Multiple Aggressor Crosstalk Faults,” IEEE Transactions on CAD, vol. 29, pp. 774-787, May 2010
+
+34. Hyunbean Yi, Sungju Park, and Sandip Kundu, “On-Chip Support for NoC-based SoC Debugging,” IEEE Transactions on Circuits and Systems I, vol 57, number 7, 2010, Pages 1608-
+
+35. Hyunbean Yi, Sandip Kundu, S. Cho and S. Park, “A Scan Cell Design for Scan-based Debugging of an SoC with Multiple Clock Domains, IEEE Transactions on Circuits and Systems II, vol 57, No 7, 2010, Pages 561-
+
+36. R. A. Shafik, B. M. Al-Hashimi, S. Kundu, A. Ejlali, “Soft Error-Aware Voltage Scaling Technique for Power Minimization in Application-Specific MPSoC,” Journal of Low Power Electronics, August 2009
+
+37. Alodeep Sanyal, Kunal Ganeshpure, Sandip Kundu, “ An Improved Soft Error Rate Measurement Technique,” IEEE Trans. on CAD, pp. 596-600, April 2009
+
+38. Aswin Sreedhar, Sandip Kundu, “Lithography Simulation Basics and a Study on Impact of Lithographic Process Window on Gate and Path Delays,” Journal of Low Power Electronics, 4, 392-401 (2008)
+
+39. Ashesh Rastogi, Kunal P. Ganeshpure, Alodeep Sanyal, Sandip Kundu, “On Composite Leakage Current Maximization,”, Journal of Electronic Testing: Theory and Applications (JETTA), pp. 405-420, Volume 24, Number 4, August, 2008
+
+40. Piet Engelke, Ilia Polian. Michel Renovell, Sandip Kundu, Bernd Becker, Bharath Seshadri, and Irith Pomeranz, “On Detection of Resistive Bridging Defects by Low-Temperature and Low-Voltage Testing,” IEEE Trans. on CAD of Integrated Circuits and Systems 27(2): 327-338 (2008)
+
+41. Ilia Polian, Alejandro Czutro, Sandip Kundu, Bernd Becker, “Power Droop Testing,” IEEE Design and Test of Computers, vol. 24, no. 3, pp. 276-284, May-June, 2007
+
+42. Sandip Kundu, Aswin Sreedhar, Alodeep Sanyal, “Forbidden pitches in Sub-Wavelength Lithography and their Implications on Design,” The Journal of Computer-Aided Materials Design, ISSN: 0928-1045, Vol. 14, No 1, 2007, pp. 79-
+
+43. Sandip Kundu, Sujit Zachariah, Yi-Shing Chang, Chandra Tirumurti, “On modeling interconnect cross-talk faults,” IEEE Transactions on CAD, vol. 24 , no. 12, Dec. 2005, pp. 1909 - 1915
+
+44. Irith Pomeranz, Sudhakar M. Reddy and Sandip Kundu, “On the Characterization and Efficient Computation of Hard-to-Detect Bridging Faults,” IEEE Transactions on CAD, vol. 23, no. 12, December 2004
+
+45. Sandip Kundu, “Pitfalls of Hierarchical Fault Simulation,” IEEE Transactions on CAD, February 2004, pp. 312- 314
+
+46. Irith Pomeranz, Sandip Kundu, Sudhakar M. Reddy, “Masking of Unknown Output Values During Output Response Compression by Using Comparison Units,” IEEE Transactions on Computers, vol. 53, Jan. 2004, pp. 83 - 89
+
+47.Sandip Kundu, Sujit Zachariah, Sanjay Sengupta and Rajesh Galivanche, “Test Challenges in Nanometer Technologies,” Journal of Electronic Testing: Theory and Applications, pp. 209-218, 2001
+
+48. Sanjay Sengupta, Sandip Kundu, Sreejit Chakravarty, Praveen Parvathala, Rajesh Galivanche, George Kosonocky, Mike Rodgers, and TM Mak, “Defect-Based Test: A Key Enabler for Successful Migration to Structural Test,” Intel Technical Journal, 1999 1st quarterly issue
+
+49.Sandip Kundu, E. S. Sogomonyan and M. Goessel, “Self-checking comparator with one periodic output,” IEEE Transactions on Computers, vol. 45, no. 3, March 1996
+
+50. Sandip Kundu, “On construction of non-systematic t-symmetric error correcting/ all unidirectional error detecting codes,” IEICE Transactions on Inf. System, vol. E78-D, No. 5, May 1995
+
+51. Sandip Kundu, “An incremental algorithm for identification of longest (shortest) paths,” Integration, pp. 25-31, vol. 17, 1994
+
+52. Sandip Kundu, “An efficient technique for obtaining unate implementation of functions through input encoding,” Integration, pp. 265-270, vol. 17, 1994
+
+53.Leendert Huisman and Sandip Kundu, “Highly reliable symmetric networks “, IEEE Trans. on Parallel and Distributed Processing,” pp. 94-97, Jan 1994
+
+54. Sandip Kundu, “Diagnosing Scan Chain Faults,” IEEE Transactions on VLSI Systems, pp. 512-516, vol. 2, No. 4, December 1994
+
+55. Sandip Kundu, Sudhakar M. Reddy and Niraj Jha, “On The Design of Robustly Testable CMOS Combinational Logic Circuits” IEEE Transactions on Computer Aided Design of Integrated Circuits and Systems, pp. 1036-1048, August 1991
+
+56. Sandip Kundu and Sudhakar M. Reddy, “A practical design of embedded TSC checkers,” IEEE Design and Test, pp. 5-12, August 1990
+
+57. Sandip Kundu and Sudhakar M. Reddy, “Robust Tests for Parity Trees,” Journal of Electronic Testing: Theory and applications, pp. 191-200, August 1990
+
+58. Sandip Kundu and Sudhakar M. Reddy, “On symmetric error correcting and all unidirectional error detecting codes,” IEEE Trans. on Computers, Vol C-39, pp. 752 - 761, June 1990
+
+59. Sandip Kundu, “Design of Multi-output CMOS Combinational Logic Circuits for Robust Testability,” IEEE Transactions on Computer Aided Design of Integrated Circuits and Systems, pp. 1222-1226, November 1989
 
 ### Refereed Conferences and Workshops
 
