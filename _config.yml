@@ -11,7 +11,7 @@ title                    : "Sandip Kundu"
 title_separator          : "-"
 name                     : &name "Sandip Kundu"
 description              : &description "Professor in the Department of Electrical and Computer Engineering"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sandip-kundu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sandip-kundu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/sandip-kundusandip"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/sandip-kundu-1173a8b7"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
