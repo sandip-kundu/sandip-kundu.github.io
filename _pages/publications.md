@@ -9,17 +9,17 @@ author_profile: true
 ### Books, Book Chapters
 
 
-Md. Nazmul Islam and Sandip Kundu, Chapter on **IoT Security, Privacy and Trust in Sharing Economy via Blockchain**, in **Blockchain Cyber security, Trust, and Privacy** Edited by Dr. Kim Kwang Raymond Choo, Dr. Ali Dehghantanha, and Dr. Reza M. Parizi, Springer Publications, In Press
+- Md. Nazmul Islam and Sandip Kundu, Chapter on **IoT Security, Privacy and Trust in Sharing Economy via Blockchain**, in **Blockchain Cyber security, Trust, and Privacy** Edited by Dr. Kim Kwang Raymond Choo, Dr. Ali Dehghantanha, and Dr. Reza M. Parizi, Springer Publications, In Press
 
-Sandip Kundu and Aswin Sreedhar, **Nanoscale CMOS VLSI Circuits: Design for Manufacturability**, ISBN: 978-0071635196, McGraw-Hill Professional, 2010
+- Sandip Kundu and Aswin Sreedhar, **Nanoscale CMOS VLSI Circuits: Design for Manufacturability**, ISBN: 978-0071635196, McGraw-Hill Professional, 2010
 
-Sandip Kundu and Alodeep Sanyal, Introduction Chapter in **Power-Aware Testing and Test Strategies for Low Power Devices**, Edited by Patrick Girard, Nicola Nicolici, Xiaoqing Wen, ISBN:978-1-4419-0927-5, Springer, 2009
+- Sandip Kundu and Alodeep Sanyal, Introduction Chapter in **Power-Aware Testing and Test Strategies for Low Power Devices**, Edited by Patrick Girard, Nicola Nicolici, Xiaoqing Wen, ISBN:978-1-4419-0927-5, Springer, 2009
 
-Omer Khan, Sandip Kundu, “Predictive Thermal Management for Chip Multiprocessors Using Co-designed Virtual Machines,”, Book Series Lecture Notes in Computer Science, Springer, ISSN 0302-9743, ISBN 978-3-540-92989-5, 2009
+- Omer Khan, Sandip Kundu, “Predictive Thermal Management for Chip Multiprocessors Using Co-designed Virtual Machines,”, Book Series Lecture Notes in Computer Science, Springer, ISSN 0302-9743, ISBN 978-3-540-92989-5, 2009
 
-Niraj Jha and Sandip Kundu, “Testing and Reliable Design of CMOS Circuits,” ISBN 0-7923-9056-3, TK7871.99.M44J49, Kluwer Academic Publishers, Boston, MA, 1990
+- Niraj Jha and Sandip Kundu, “Testing and Reliable Design of CMOS Circuits,” ISBN 0-7923-9056-3, TK7871.99.M44J49, Kluwer Academic Publishers, Boston, MA, 1990
 
-Sudhakar Reddy and Sandip Kundu, “Fault Detection and Design for Testability of CMOS Logic Circuits,” Chapter in “Testing and Diagnosis of VLSI and ULSI” Edited by F. Lombardi and M. G. Sami(Eds), pp. 69-92, Kluwer Academic Publishers, Boston, MA, 1988
+- Sudhakar Reddy and Sandip Kundu, “Fault Detection and Design for Testability of CMOS Logic Circuits,” Chapter in “Testing and Diagnosis of VLSI and ULSI” Edited by F. Lombardi and M. G. Sami(Eds), pp. 69-92, Kluwer Academic Publishers, Boston, MA, 1988
 
 ### Journals
 
