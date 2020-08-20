@@ -15,44 +15,24 @@
 
 ### Journals
 
-1.Leandro Santiago de Araùjo, Leticia Dias Verona, Fábio Medeiros Rangel, Fabricio Firmino
-de Faria, Daniel Sadoc Menasche, Wouter Caarls, Mauricio Breternitz, Sandip Kundu, Priscila
-Machado Vieira Lima, Felipe Maia Galvão França, “Memory Efficient Weightless Neural Network
-using Bloom Filter,” Neurocomputing, February 2020, 10.1016/j.neucom.2020.01.
-2.Pascal Meinerzhagen, Sandip Kundu, Andres Malavasi, Trang Nguyen, Muhammad Khellah,
-James Tschanz and Vivek De, “Min-Delay Margin/Error Detection and Correction for Flip-Flops
-and Pulsed Latches in 10nm CMOS,” IEEE Solid-State Circuits Letters, Volume: 2, Issue: 9, Sept.
-2019
-3.Md. Nazmul Islam, Sandip Kundu, “Enabling IC Traceability via Blockchain Pegged to Embedded
-PUF,” ACM Transactions on Design Automation of Electronic Systems (TODAES), ACM Transacti-
-ons on Design Automation of Electronic Systems, Vol 24, 3, Article 36 (April 2019), 23 pages.
-DOI: https://doi.org/10.1145/
-```
+1. Leandro Santiago de Araùjo, Leticia Dias Verona, Fábio Medeiros Rangel, Fabricio Firmino de Faria, Daniel Sadoc Menasche, Wouter Caarls, Mauricio Breternitz, Sandip Kundu, Priscila Machado Vieira Lima, Felipe Maia Galvão França, “Memory Efficient Weightless Neural Network using Bloom Filter,” Neurocomputing, February 2020, 10.1016/j.neucom.2020.01
 
-4.Leandro Santiago, Vinay C. Patil, Charles B. Prado, Tiago A. O. Alves, Leandro A. J. Marzulo,
-Felipe M. G. França, Sandip Kundu, “Design of Robust, High Entropy Strong PUFs via Weightless
-Neural Network,” Journal of Hardware and Systems Security, September 2019, Volume 3, Issue
-3, pp 235-
-5.Tiago Alves, Leandro A. J. Marzulo, Felipe M. G. França and Sandip Kundu, “Concurrency
-Analysis in Dynamic Dataflow Graphs,” IEEE Transactions on Emerging Topics in Computing,
-(preprint: https://www.computer.org/csdl/journal/ec/5555/01/08269827/13rRUwjoNBc)
-6.Md. Nazmul Islam, Vinay C. Patil, Sandip Kundu, “On Enhancing Reliability of Weak PUFs via
-Intelligent Post-Silicon Accelerated Aging,” IEEE Trans. on Circuits and Systems 65-I (3): 960-
-(2017)
-7.Vijayakumar, Arunkumar, Vinay C. Patil, and Sandip Kundu. “On Improving Reliability of SRAM-
-Based Physically Unclonable Functions,” Journal of Low Power Electronics and Applications 7,
-(2017): 2.http://www.mdpi.com/2079-9268/7/1/2/htm
-8.Arunkumar Vijayakumar, Vinay C. Patil, Daniel E. Holcomb, Christof Paar, and Sandip Kundu,
-“Physical Design Obfuscation of Hardware: A Comprehensive Investigation of Device and Logic-
-Level Techniques,” IEEE Transactions on Information Forensics and Security, vol. 12, no. 1, pp.
-64-77, Jan. 2017.
-9.Jian Wang, Huawei Li, Tao Lv, Tiancheng Wang, Xiaowei Li and Sandip Kundu, “Abstraction-
-Guided Simulation Using Markov Analysis for Functional Verification,” IEEE Transactions on
-Computer-Aided Design of Integrated Circuits and Systems, vol. 35, no. 2, pp. 285-297, Feb.
-2016
-10.Sudarshan Srinivasan, Nithesh Kurella, Israel Koren, Sandip Kundu. “Exploring Heterogeneity
-within a Core for Improved Power Efficiency,” IEEE Transactions on Parallel and Distributed
-Systems, vol. 27, no. 4, pp. 1057-1069, April 1 2016
+2. Pascal Meinerzhagen, Sandip Kundu, Andres Malavasi, Trang Nguyen, Muhammad Khellah, James Tschanz and Vivek De, “Min-Delay Margin/Error Detection and Correction for Flip-Flops and Pulsed Latches in 10nm CMOS,” IEEE Solid-State Circuits Letters, Volume: 2, Issue: 9, Sept. 2019
+
+3. Md. Nazmul Islam, Sandip Kundu, “Enabling IC Traceability via Blockchain Pegged to Embedded PUF,” ACM Transactions on Design Automation of Electronic Systems (TODAES), ACM Transactions on Design Automation of Electronic Systems, Vol 24, 3, Article 36 (April 2019), 23 pages. DOI: https://doi.org/10.1145/
+
+4. Leandro Santiago, Vinay C. Patil, Charles B. Prado, Tiago A. O. Alves, Leandro A. J. Marzulo, Felipe M. G. França, Sandip Kundu, “Design of Robust, High Entropy Strong PUFs via Weightless Neural Network,” Journal of Hardware and Systems Security, September 2019, Volume 3, Issue 3, pp 235-5.Tiago Alves, Leandro A. J. Marzulo, Felipe M. G. França and Sandip Kundu, “Concurrency Analysis in Dynamic Dataflow Graphs,” IEEE Transactions on Emerging Topics in Computing, (preprint: https://www.computer.org/csdl/journal/ec/5555/01/08269827/13rRUwjoNBc)
+
+6. Md. Nazmul Islam, Vinay C. Patil, Sandip Kundu, “On Enhancing Reliability of Weak PUFs via Intelligent Post-Silicon Accelerated Aging,” IEEE Trans. on Circuits and Systems 65-I (3): 960-(2017)
+
+7. Vijayakumar, Arunkumar, Vinay C. Patil, and Sandip Kundu. “On Improving Reliability of SRAM-Based Physically Unclonable Functions,” Journal of Low Power Electronics and Applications 7, (2017): 2.http://www.mdpi.com/2079-9268/7/1/2/htm
+
+8. Arunkumar Vijayakumar, Vinay C. Patil, Daniel E. Holcomb, Christof Paar, and Sandip Kundu, “Physical Design Obfuscation of Hardware: A Comprehensive Investigation of Device and Logic-Level Techniques,” IEEE Transactions on Information Forensics and Security, vol. 12, no. 1, pp. 64-77, Jan. 2017
+
+9. Jian Wang, Huawei Li, Tao Lv, Tiancheng Wang, Xiaowei Li and Sandip Kundu, “Abstraction-Guided Simulation Using Markov Analysis for Functional Verification,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 35, no. 2, pp. 285-297, Feb. 2016
+
+10. Sudarshan Srinivasan, Nithesh Kurella, Israel Koren, Sandip Kundu. “Exploring Heterogeneity within a Core for Improved Power Efficiency,” IEEE Transactions on Parallel and Distributed Systems, vol. 27, no. 4, pp. 1057-1069, April 1 2016
+
 11.Vikram B. Suresh, Sandip Kundu, “Managing Test Coverage Uncertainty due to Random Noise in
 nano-CMOS: A Case-Study on an SRAM Array,” IEEE Transactions on Computer-Aided Design
 of Integrated Circuits and Systems (TCAD), vol. 35, no.1, pp.155-165, Jan. 2016
@@ -191,7 +171,7 @@ November 1989
 
 ### Refereed Conferences and Workshops
 
-```
+
 1.Vinay Patil, Sandip Kundu, “On Leveraging Multi-threshold FinFETs for Design Obfuscation,”
 IEEE Computer Society Annual Symposium on VLSI, Limassol, Cyprus, July 6-8, 2020
 2.Irith Pomeranz, Sandip Kundu “Reduced Fault Coverage as a Target for Design Scaffolding
@@ -211,14 +191,13 @@ and Systems, San Josè, Costa Rica, February 25-28, 2020
 6.Leandro Santiago de Araùjo, Vinay C. Patil, Leandro Augusto Justen Marzulo, Felipe Maia Galvão
 França, Sandip Kundu, “Efficient Testing of Physically Unclonable Functions for Uniqueness,”
 IEEE 28thAsian Test Symposium (ATS), December 2019
-```
 
-```
+
 7.Pascal Meinerzhagen, Sandip Kundu, Andres Malavasi, Trang Nguyen, Muhammad Khellah,
 James Tschanz and Vivek De, “Min-Delay Margin/Error Detection and Correction for Flip-Flops
 and Pulsed Latches in 10nm CMOS,” 45thEuropean Solid-State Circuits Conference, Krakow,
 Poland, September 23-26, 2019
-```
+
 8. Leandro Santiago de Araùjo, Victor Cruz Ferreira, Brunno Figueroa Goldstein, Alexandre Solon
     Nery, Leandro Augusto Justen Marzulo, Sandip Kundu and Felipe M. G. França, “Hardware-
     Accelerated Similarity Search with Multi-Index Hashing,” 17thIEEE International Conference on
