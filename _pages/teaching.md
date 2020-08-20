@@ -24,7 +24,7 @@ author_profile: true
 
 ## Graduate Courses
 
-- ECE 697:	Hardware Design for Machine Learning [Fall 2020](www.ecs.umass.edu/ece697ls)
+- ECE 697:	Hardware Design for Machine Learning [Fall 2020](http://www.ecs.umass.edu/ece697ls)
 
 - ECE 654:	Testing and Diagnosis of VLSI Systems 
 
