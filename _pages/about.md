@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Biography
 
 Sandip Kundu is a Professor of Electrical and Computer Engineering department at the *University of Massachusetts Amherst* (2005-date).  
 
