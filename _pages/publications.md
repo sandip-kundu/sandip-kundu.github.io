@@ -109,7 +109,7 @@ MPSoC based on task rescheduling**, ACM Trans. Des. Autom. Electron. Syst. 19, 2
 
 - Hyunbean Yi, Sungju Park, and Sandip Kundu, **On-Chip Support for NoC-based SoC Debugging**, IEEE Transactions on Circuits and Systems I, vol 57, number 7, 2010, Pages 1608-1617
 
-- Hyunbean Yi, Sandip Kundu, S. Cho and S. Park, **A Scan Cell Design for Scan-based Debugging of an SoC with Multiple Clock Domains, IEEE Transactions on Circuits and Systems II, vol 57, No 7, 2010, Pages 561-565
+- Hyunbean Yi, Sandip Kundu, S. Cho and S. Park, **A Scan Cell Design for Scan-based Debugging of an SoC with Multiple Clock Domains**, IEEE Transactions on Circuits and Systems II, vol 57, No 7, 2010, Pages 561-565
 
 - R. A. Shafik, B. M. Al-Hashimi, S. Kundu, A. Ejlali, **Soft Error-Aware Voltage Scaling Technique for Power Minimization in Application-Specific MPSoC**, Journal of Low Power Electronics, August 2009
 
@@ -145,7 +145,7 @@ MPSoC based on task rescheduling**, ACM Trans. Des. Autom. Electron. Syst. 19, 2
 
 - Sandip Kundu, **An efficient technique for obtaining unate implementation of functions through input encoding**, Integration, pp. 265-270, vol. 17, 1994
 
-- Leendert Huisman and Sandip Kundu, **Highly reliable symmetric networks **, IEEE Trans. on Parallel and Distributed Processing**, pp. 94-97, Jan 1994
+- Leendert Huisman and Sandip Kundu, **Highly reliable symmetric networks**, IEEE Trans. on Parallel and Distributed Processing, pp. 94-97, Jan 1994
 
 - Sandip Kundu, **Diagnosing Scan Chain Faults**, IEEE Transactions on VLSI Systems, pp. 512-516, vol. 2, No. 4, December 1994
 
@@ -169,7 +169,7 @@ MPSoC based on task rescheduling**, ACM Trans. Des. Autom. Electron. Syst. 19, 2
 
 -	Tiago Alves, Sandip Kundu, **Towards Adversarial Attack Resistant Deep Neural Networks**, European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, Bruges, Belgium, October 2-4, 2020
 
--	Brunno F Goldstein, Sudarshan Srinivasan, Dipankar Das, Kunal Banerjee, Leandro Santiago, Victor C. Ferreira, Alexandre S. Nery, Sandip Kundu and Felipe M. G. França, **Reliability Evaluation of Compressed Deep Learning Models **, 11thIEEE Latin American Symposium on Circuits and Systems, San Josè, Costa Rica, February 25-28, 2020
+-	Brunno F Goldstein, Sudarshan Srinivasan, Dipankar Das, Kunal Banerjee, Leandro Santiago, Victor C. Ferreira, Alexandre S. Nery, Sandip Kundu and Felipe M. G. França, **Reliability Evaluation of Compressed Deep Learning Models**, 11th IEEE Latin American Symposium on Circuits and Systems, San Josè, Costa Rica, February 25-28, 2020
 
 -	Leandro Santiago de Araùjo, Vinay C. Patil, Leandro Augusto Justen Marzulo, Felipe Maia Galvão França, Sandip Kundu, **Efficient Testing of Physically Unclonable Functions for Uniqueness**, IEEE 28thAsian Test Symposium (ATS), December 2019
 
@@ -300,7 +300,7 @@ MPSoC based on task rescheduling**, ACM Trans. Des. Autom. Electron. Syst. 19, 2
 -	Michael Buttrick and Sandip Kundu, **Mitigating Partitioning, Routing, and Yield Concerns in 3D ICs by Multiplexing TSVs**, IEEE International Symposium on VLSI, 2011
 -	Raghavan Kumar, Harikrishnan Kumarapillai Chandrikakutty and Sandip Kundu, **On Improving Reliability of Delay Based Physically Unclonable Functions under Temperature Variations**, IEEE Int. Symposium on Hardware-Oriented Security and Trust, 2011
 -	Sudarshan Srinivasan, Arunkumar Vijayakumar, Bharath Phanibhushana, Sandip Kundu, **Stress Aware Switching Activity Driven Low Power Design of Critical Paths in Nanoscale CMOS Circuits**, 21st ACM GLSVLSI Conference, 2011
--	Aswin Sreedhar and Sandip Kundu, **On Discovery of **Missing** Physical Design Rules via Diagnosis of Soft-faults**, ISQED, 2011
+-	Aswin Sreedhar and Sandip Kundu, **On Discovery of "Missing" Physical Design Rules via Diagnosis of Soft-faults**, ISQED, 2011
 -	Rance Rodrigues and Sandip Kundu, **Model Based Double Patterning Lithography (DPL) and Simulated Annealing (SA)**, ISQED, 2011
 -	Sudarshan Srinivasan,  Kunal P Ganeshpure,  Sandip Kundu, **Maximizing Hotspot Temperature: Wavelet based Modelling of Heating and Cooling Profile of Functional Workloads**, ISQED, 2011
 -	Michael Buttrick and Sandip Kundu, **On Testing Prebond Dies with Incomplete Clock Networks in 3D ICs Using DLLs**, Design Automation and Test in Europe, 2011
@@ -360,8 +360,8 @@ MPSoC based on task rescheduling**, ACM Trans. Des. Autom. Electron. Syst. 19, 2
 -	Alodeep Sanyal, Sandip Kundu, **On Derating Soft Error Probability Based on Strength Filtering**, International On-line Test Symposium, 2007, pp. 152-160
 -	Alodeep Sanyal, Kunal P. Ganeshpure, Sandip Kundu, **Accelerating Soft Error Rate Testing Through Pattern Selection**, International On-line Test Symposium, pp. 191-193, 2007
 -	Ashesh Rastogi, Wei Chen, Alodeep, Sandip Kundu, **On Estimating Impact of Loading Effect on Leakage Current in sub-65nm Scaled CMOS Circuits based on Newton-Raphson Method**, Design Automation Conference, pp. 712-715, 2007
--	Ashesh Rastogi, Kunal Ganeshpure, Alodeep Sanyal, Sandip Kundu, **Pattern Generation for Composite Leakage Current Maximization, ** European Test Symposium,  2007
--	Kunal Ganeshpure, Alodeep Sanyal, Sandip Kundu, **A Pattern Selection Approach for Accelerating Soft Error Rate Testing, ** European Test Symposium, 2007
+-	Ashesh Rastogi, Kunal Ganeshpure, Alodeep Sanyal, Sandip Kundu, **Pattern Generation for Composite Leakage Current Maximization**, European Test Symposium,  2007
+-	Kunal Ganeshpure, Alodeep Sanyal, Sandip Kundu, **A Pattern Selection Approach for Accelerating Soft Error Rate Testing**, European Test Symposium, 2007
 -	Ashesh Rastogi, Kunal Ganeshpure, Sandip Kundu, **A Study on Impact of Leakage Current on Dynamic Power**, ISCAS, pp. 1069-1072, 2007
 -	Kunal Ganeshpure, Alodeep Sanyal, Sandip Kundu, **On Accelerating Soft-Error Detection by Targeted Pattern Generation**, ISQED 2007, pp. 723-728
 -	Kunal Ganeshpure, Sandip Kundu, **Automatic Test Pattern Generation for Maximal Circuit Noise in Multiple Aggressor Cross-Talk Faults**, DATE, pp. 540-545, 2007
@@ -416,7 +416,7 @@ MPSoC based on task rescheduling**, ACM Trans. Des. Autom. Electron. Syst. 19, 2
 -	Sandip Kundu, Sudhakar M. Reddy and Niraj Jha, **On The Design of Robust Multiple Fault Testable CMOS Combinational Logic Circuits** IEEE International Conference on Computer Aided Design, Santa Clara, November 1988 
 -	Sandip Kundu and Sudhakar M. Reddy, **Robust Tests for Parity Trees**, International Test Conference, Washington D.C., pp. 680-687, September 1988 
 -	Sandip Kundu and Sudhakar M. Reddy, **On the Design of Robust Testable CMOS Combinational Logic Circuits**, 18th International Symposium on Fault Tolerant Computing, Tokyo, Japan, pp. 220-225, June 1988 
--	Sandip Kundu and Sudhakar M. Reddy, **On the Design t-SyEC/AUED Codes **, IEEE International Symposium on Information Theory, Kobe, Japan, June 19-24, 1988 
+-	Sandip Kundu and Sudhakar M. Reddy, **On the Design t-SyEC/AUED Codes**, IEEE International Symposium on Information Theory, Kobe, Japan, June 19-24, 1988 
 -	Sandip Kundu and Sudhakar M. Reddy, **Design of Testable CMOS Circuits**, IEEE Design for Testability Workshop, Vail, Colorado, 1988 
 -	Sandip Kundu and Sudhakar M. Reddy, **On The Design of TSC LFSR Circuits**, International Test Conference BIST Workshop, South Carolina, March 11-13, 1987 
 -	Sandip Kundu and Sudhakar M. Reddy, **On The Design of Embedded TSC Checkers**, Proceedings of the 24th Annual Allerton Conference on Circuit and System Theory, October 1986. 
