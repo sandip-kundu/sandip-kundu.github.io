@@ -29,9 +29,9 @@ author_profile: true
 
 -	**Keynote Talk** *On Securing the Internet-of-Things: One PUF at a time*, 3rd Brazil Workshop on Microarchitectural Challenges: Performance, Energy Efficiency and Resilience, Rio de Janeiro, Brazil, [link](http://wmc2017.ime.uerj.br/program.html), March 17, 2017
 
--	**Graduate colloquium** *Exploring Heterogeneity within a Core for Improved Power Efficiency*, TU Dresden, Germany, December 22, 2016
+-	**Graduate Colloquium** *Exploring Heterogeneity within a Core for Improved Power Efficiency*, TU Dresden, Germany, December 22, 2016
 
--	**Graduate colloquium** *Securing Physically Unclonable Functions*, Ruhr University Bochum, Germany, December 15, 2016
+-	**Graduate Colloquium** *Securing Physically Unclonable Functions*, Ruhr University Bochum, Germany, December 15, 2016
 
 -	**Distinguished Lecture** at the State University of Rio de Janeiro, Brazil, *Improving Yield and Reliability of Chip Multiprocessors*, March 30, 2015
 
@@ -57,9 +57,9 @@ author_profile: true
 
 -	**Graduate Colloquium** at Georgia Tech, Atlanta, GA, April 8, 2011
 
--	**Invited talk** at Semiconductor Technology Advance Research Corporation, Yokohama, Japan, June 2010
+-	**Invited Talk** at Semiconductor Technology Advance Research Corporation, Yokohama, Japan, June 2010
 
--	**Invited speaker** at Nara Advanced Institute of Science and Technology, Nara, Japan, June 2010
+-	**Invited Speaker** at Nara Advanced Institute of Science and Technology, Nara, Japan, June 2010
 
--	**Invited speaker** at Kyushu Institute of Technology, Kyushu, Japan, June 2010
+-	**Invited Speaker** at Kyushu Institute of Technology, Kyushu, Japan, June 2010
 
