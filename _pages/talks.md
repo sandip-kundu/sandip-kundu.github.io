@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Recent Invited Talks"
+title: "Recent Talks"
 permalink: /talks/
 author_profile: true
 ---
