@@ -9,7 +9,7 @@ author_profile: true
 
 ### Adversarial Attack on Image Learning Classifiers 
 
-[Adversarial Attack](https://github.com/tiagoaoa/num_gradient_descent), **Credit**: Tiago A. O. Alves, State University of Rio de Janeiro
+[Adversarial Attack](https://github.com/tiagoaoa/num_gradient_descent), **Credit**: Tiago A. O. Alves (Fall 2019)
 
 ### Model Cloning Attack on Time Series Data
 
