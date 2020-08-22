@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Resources"
-permalink: /resources/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-## Advanced VLSI Design and Test Laboratory
  
-The Advanced VLSI Design and Test Group is involved in a number of projects covering a large spectrum of Microarchitecture, 
+The *Advanced VLSI Design and Test Group* is involved in a number of projects covering a large spectrum of Microarchitecture, 
 Hardware Security, Neural Processing and VLSI Design and Test Research.
 
 ### Hardware Security
