@@ -11,9 +11,9 @@ Hardware Security, Neural Processing and VLSI Design and Test Research.
 
 ### Hardware Security
 
-Our research focuses on a number of hardware security problems, from basic crypotographic units, side-channels to hardware 
-support for security protocols in the Internet of Things (IoT), Cyber-Physical Systems (CPS), to specilized hardware 
-accelerators such as Neural Processing Units (NPU). 
+Our research focuses on a number of hardware security problems from  protection of crypotographic circuits from side-channel
+attacks to securing hardware and hardware supported security protocols in the Internet of Things (IoT) devices, Cyber-Physical Systems (CPS), 
+and special purpose hardware accelerators such as Neural Processing Units (NPU), which are attractive targets for attackers.
 The integration of a tremendous number of devices into IoT and CPS brings in concerns for system security. 
 Our research works focus on solutions for a secure, trustworthy, and reliable hardware underlying the information systems. 
 We work on various multi-dimensional approaches to protect the microelectronic supply chain and enable counterfeit detection 
