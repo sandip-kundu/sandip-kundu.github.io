@@ -59,5 +59,4 @@ logic and false timing paths.
 Sandip Kundu and Sudhakar M. Reddy, “Design of TSC checkers for implementation in CMOS
 technology,” Int. Conference on Computer Design, Boston, October 2-4, 1989
 
-1979 **Government of India National Scholarship**
 
