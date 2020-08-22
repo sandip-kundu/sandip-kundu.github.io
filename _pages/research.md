@@ -1,11 +1,20 @@
+---
+layout: archive
+title: "Resources"
+permalink: /resources/
+author_profile: true
+---
+
 ## Advanced VLSI Design and Test Laboratory
  
-The Advanced VLSI Design and Test Group is involved in a number of projects covering a large spectrum of Microarchitecture, Hardware Security, VLSI Design and Test Research.
+The Advanced VLSI Design and Test Group is involved in a number of projects covering a large spectrum of Microarchitecture, 
+Hardware Security, Neural Processing and VLSI Design and Test Research.
 
 ### Hardware Security
 
-Our research focuses on a number of hardware security problems, from basic crypotographic units, side-channels to hardware support for security protocols
-in the Internet of Things (IoT), Cyber-Physical Systems (CPS), to specilized hardware accelerators such as Neural Processing Units (NPU). 
+Our research focuses on a number of hardware security problems, from basic crypotographic units, side-channels to hardware 
+support for security protocols in the Internet of Things (IoT), Cyber-Physical Systems (CPS), to specilized hardware 
+accelerators such as Neural Processing Units (NPU). 
 The integration of a tremendous number of devices into IoT and CPS brings in concerns for system security. 
 Our research works focus on solutions for a secure, trustworthy, and reliable hardware underlying the information systems. 
 We work on various multi-dimensional approaches to protect the microelectronic supply chain and enable counterfeit detection 
@@ -19,7 +28,24 @@ However, they rely on different properties of underlying circuits. PUF circuits 
 Their responses must be reliable and repeatable, implying that PUF response should be invariant to environmental factors 
 such as voltage and temperature disturbances, yet they must vary from one fabricated device to the other implying that they 
 must rely on physical variations. However, the response of the PUF circuit must not be a simple 
-linear transformation of the physical variations which makes them vulnerable to modeling attacks. If they rely on non-linear transformation of physical variations, such transformations must be sufficiently complex to withstand modeling attacks. Even the verifier needs to be able to withstand cloning attacks. It must not send the same sequence of challenges for authentication, as the correct responses may be memorized by an attacker and used subsequently. Our PUF circuits rely on exploiting lithographic distortions while we design these circuits to be insensitive to voltage and temperature to improve uniqueness while also improving their reliability. Our research in security is expanding to include various forms of attacks and countermeasures. We are also exploring how to use/secure NVRAM for crypto applications. Stay tuned for publications in this area soon.
+linear transformation of the physical variations which makes them vulnerable to modeling attacks. 
+If they rely on non-linear transformation of physical variations, such transformations must be sufficiently 
+complex to withstand modeling attacks. Even the verifier needs to be able to withstand cloning attacks. 
+It must not send the same sequence of challenges for authentication, as the correct responses may be memorized 
+by an attacker and used subsequently. Our PUF circuits rely on exploiting lithographic distortions while we design 
+these circuits to be insensitive to voltage and temperature to improve uniqueness while also improving their reliability. 
+Our research in security is expanding to include various forms of attacks and countermeasures. 
+We are also exploring how to use/secure NVRAM for crypto applications. Stay tuned for publications in this area soon.
+
+#### Defenses against attacks on NPU in Edge Devices
+
+Machine-learned (ML) models are valuable storehouses of intellectual property (IP) 
+requiring significant investment to develop. 
+If such models can be cloned or transferred from another device easily, 
+it presents a significant IP threat. 
+Of concern is theft of machine learning IP from edge devices via semi invasive attacks, or purely
+query based model cloning attacks. We are developing hardware supported solutions against model cloning attacks
+with strong security guarantees, primarily targeting edge devices featuring neural processing units (NPU).
 
 
 ### Computer Architecture
