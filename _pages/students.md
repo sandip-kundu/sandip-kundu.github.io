@@ -37,7 +37,7 @@ author_profile: true
 -	2019: Leandro Santiago de Araújo, *State University of Rio de Janeiro (UERJ)*
 - 2016: Arunkumar Vijayakumar, *Intel Corporation*
 -	2016: Sudarshan Srinivasan, *Intel Corporation*
-- 2015: Tiago A. O. Alves, *State University of Rio de Janeiro (UERJ)*
+- 2014: Tiago A. O. Alves, *State University of Rio de Janeiro (UERJ)*
 -	2013: Rance Rodrigues, *NVIDIA* 
 -	2011: Kunal Ganeshpure, *Mentor Graphics Corporation*
 -	2010: Aswin Sreedhar, *Intel Corporation*
