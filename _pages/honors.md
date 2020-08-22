@@ -1,8 +1,6 @@
 ---
-permalink: /
+layout: archive
 title: "Honors"
+permalink: /honors/
 author_profile: true
-redirect_from: 
-  - /honors/
-  - /honors.html
 ---
