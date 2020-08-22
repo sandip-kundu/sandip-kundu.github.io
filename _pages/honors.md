@@ -31,6 +31,7 @@ University of Montpellier, France
 1. On Linewidth-based Yield Analysis for Nanometer Lithography, DATE Conference
 2. Predictive Thermal Management for Chip Multiprocessors using Co-Designed Virtual Machines,
     International Conference on High Performance Embedded Architectures Compilers (HiPEAC)
+    
 2007 **Fellow of the IEEE**
 
 2006-2009 **Distinguished Visitor** of the IEEE Computer Society
