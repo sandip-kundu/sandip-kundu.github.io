@@ -52,8 +52,8 @@ for development of a new Automatic Test Pattern Generation tool which was capabl
 of handling a million gate design on a state of the art workstation in 1992 with 128MB memory.
 
 1993 **IBM Research Division Award**
-for contribution to Logic Synthesis system. The contribution was on removal of redundancy from
-logic as well as removal of false timing paths. 
+for contribution to Logic Synthesis system. The contribution was on removal of redundant 
+logic and false timing paths. 
 
 1989 **Best Paper in International Conference on Computer Design**
 Sandip Kundu and Sudhakar M. Reddy, “Design of TSC checkers for implementation in CMOS
