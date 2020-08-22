@@ -33,4 +33,5 @@ Prof. Kundu has held visiting professor positions at the University of Freiburg 
   151 Holdsworth Way <br/>
   Amherst MA 01003-9284 <br/>
   Telephone: (413) 577-3309 <br/>
-  email: kundu@umass.edu
+ 
+ *Last updated on August 21, 2020*
