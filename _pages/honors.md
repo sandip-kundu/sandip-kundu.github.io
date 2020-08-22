@@ -41,14 +41,7 @@ anniversary compendium of most influential papers in previous 20 year, titled On
 robust multiple fault testable CMOS combinational logic circuits.
 
 2000 **Intel Development Leadership Pioneer Award**
-Highest award in 2000 from the Intel Microprocessor Design Group for a logic and fault simulation
-system that replaced a hardware accelerated simulator, permitting full chip Pentium IV class
-design ( 42M transistors) to be simulated on a single CPU IA-32 machine against defect based
-fault models. The simulator was demonstrated as a showcase technology by Paul Otellini, Chief
-Operating Officer of Intel at Design Automation Conference in 1999, and by Bill Gates, Chairman
-of Microsoft Corporation at Intel Microsoft Workstation Leadership forum in Burlingame, CA in
-1999.
-
+for high-performance logic and fault simulation at a full-chip level.
 
 1996 **IBM Invention Achievement Plateau**
 for patents
@@ -66,5 +59,4 @@ Sandip Kundu and Sudhakar M. Reddy, “Design of TSC checkers for implementation
 technology,” Int. Conference on Computer Design, Boston, October 2-4, 1989
 
 1979 **Government of India National Scholarship**
-based on performance at National Talent Search Examination at the end of Secondary School
-Education.
+
